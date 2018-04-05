@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article article-type="letter" dtd-version="1.1" specific-use="sps-1.7" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">rpsp</journal-id>
+			<journal-title-group>
+				<journal-title>Revista Panamericana de Salud Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev Panam Salud Publica</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1680-5348</issn>
+			<issn pub-type="ppub">1020-4989</issn>
+			<publisher>
+				<publisher-name>Organización Panamericana de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">41-e78</article-id>
+			<article-id pub-id-type="other">01001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Carta al editor</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>How Colombia’s biosimilar regulation departs from international norms</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Lietzan</surname>
+						<given-names>Erika</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0001"/>
+				</contrib>
+			</contrib-group>
+			<aff id="aff0001">
+				<institution content-type="orgname">Associate Professor of Law</institution>
+				<institution content-type="orgdiv1">University of Missouri School of Law</institution>
+				<addr-line>
+					<named-content content-type="city">Columbia</named-content>
+					<named-content content-type="state">Missouri</named-content>
+				</addr-line>
+				<country country="US">United States of America</country>
+				<email>lietzane@missouri.edu</email>
+				<institution content-type="original">Associate Professor of Law, University of Missouri School of Law, Columbia, Missouri, United States of America lietzane@missouri.edu</institution>
+			</aff>
+			<author-notes>
+				<corresp id="cor1">
+					<email>lietzane@missouri.edu</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>19</day>
+				<month>02</month>
+				<year>2018</year>
+			</pub-date>
+			<volume>41</volume>
+			<elocation-id>e78</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>16</day>
+					<month>02</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>22</day>
+					<month>02</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" xml:lang="es">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+		</article-meta>
+	</front>
+	<body>
+		<p><italic>Dear editor</italic></p>
+		<p>I write in response to an article published in January 2016 regarding Colombia’s 2014 regulation governing registration of biosimilar biological products (<xref ref-type="bibr" rid="cit0001">1</xref>). In my view, the article seriously misstates international norms regarding approval of biosimilars and creates a misimpression that the new Colombian regime is consistent with the approach taken in Europe and the United States. In fact, the Colombian regulation departs significantly from international norms.</p>
+		<p>Generally speaking, the consensus approach in the rest of the world involves two pathways to market for biological medicines: a full dossier with robust preclinical and clinical evidence of safety and effectiveness, and an abbreviated dossier with a robust showing of similarity to an originator product sufficient to justify reliance on the originator’s safety and effectiveness research. There is no third pathway. The consensus approach to the abbreviated dossier for a biological medicine involves a rigorous comparison of the proposed medicine with a single originator product, proceeding step-by-step through comparative analytical and functional characterization to preclinical testing and clinical testing. Clinical data are always required.</p>
+		<p>The European Medicines Agency (EMA) requires biosimilar sponsors to perform a comparative exercise between a proposed product and its reference product, comprising comparative characterization, preclinical testing, and clinical testing (<xref ref-type="bibr" rid="cit0002">2</xref>). The goal is to establish a sufficiently high degree of similarity between the two products to justify reliance on the safety and effectiveness data submitted by the reference product sponsor. The EMA has explained that the sponsor follows a stepwise program, beginning with a comprehensive physicochemical and biological comparison of the products and proceeding through preclinical and clinical studies in order to exclude relevant differences between the products (<xref ref-type="bibr" rid="cit0002">2</xref>).</p>
+		<p>In the United States, a biosimilar applicant must show that the proposed biosimilar is highly similar to its reference product and that there are no clinically meaningful differences between the two (<xref ref-type="bibr" rid="cit0003">3</xref>). U.S. law presumes that analytical studies, animal studies, and at least one clinical study will be required in every case (<xref ref-type="bibr" rid="cit0003">3</xref>). Like its European counterpart, the U.S. Food and Drug Administration (FDA) envisions a stepwise approach culminating in a totality of evidence demonstrating that the approval standard has been met (<xref ref-type="bibr" rid="cit0004">4</xref>). Applicants begin with extensive structural and functional characterization of the products (<xref ref-type="bibr" rid="cit0004">4</xref>). The nature and scope of the animal toxicity data depend on the comparative structural and functional data (<xref ref-type="bibr" rid="cit0004">4</xref>). The FDA expects applicants to conduct comparative human pharmacokinetic and pharmacodynamic studies and a clinical immunogenicity assessment (<xref ref-type="bibr" rid="cit0004">4</xref>). In some cases, these clinical data could be sufficient to support approval, but to date the agency has required additional comparative clinical testing to exclude clinically meaningful differences between the products.</p>
+		<p>The Colombian approach differs fundamentally. First, the comparability abbreviated (“fast track”) pathway does not correspond to any pathway for approval of biological medicines in Europe or the United States. The full dossier pathway and comparability pathway in Colombia correspond generally to the full dossier and biosimilar pathways in Europe and the United States. There is, however, no third pathway for biological medicines in either jurisdiction. The January 2016 article confusingly states that other health agencies use the “fast track” pathway for approval of generic small molecule drugs and then refers to the U.S. biosimilar pathway as a “fast track” statute (<xref ref-type="bibr" rid="cit0001">1</xref>). The first statement creates the misimpression that the third pathway in Colombia is similar to generic drug approval, and the second creates the misimpression that the third pathway is similar to the U.S. biosimilar law. Neither is true. Second, the third pathway in Colombia permits an applicant to dispense with use of a locally authorized reference product. An applicant may cite active ingredients approved only in other countries and may even cite pharmacopeia standards. In Europe and the United States, a biosimilar applicant must compare its product with an originator product authorized in that jurisdiction. Further, neither regulator permits approval of a biosimilar based on comparison with a monograph or pharmacopeia standard. Although a U.S. applicant may add publicly available information about other products, it must always provide a robust comparison with an originator reference product. Indeed, ordinarily it must submit data from at least one clinical study comparing its product <italic>directly</italic> with the U.S. reference product. Third, the third pathway in Colombia permits market entry based on comparative characterization without human trials. The January 2016 report claims that this approach “is based on global regulatory trends” (<xref ref-type="bibr" rid="cit0001">1</xref>). Recent approvals in Europe and the United States contradict that claim. The recent European Commission approval of the etanercept biosimilar Benepali<sup>®</sup> (Samsung Bioepis Co., Ltd., Incheon, Republic of Korea) was supported by a randomized, controlled pharmacokinetic trial in healthy volunteers and a randomized, double-blind clinical trial in patients with moderate to severe rheumatoid arthritis. The recent U.S. FDA approval of the adalimumab biosimilar Amjevita™ (Amgen, Thousand Oaks, California, United States) was supported by a pharmacokinetic study in human volunteers, a randomized, double-blind clinical trial in patients with rheumatoid arthritis, and a randomized, double-blind clinical trial in patients with plaque psoriasis. Every biosimilar approved in Europe and the United States has been supported by extensive clinical testing.</p>
+		<p>The January 2016 article mischaracterizes the U.S. and European pathways. The stepwise approach necessarily results in variability from application to application. The number of preclinical studies varies; the number of clinical pharmacokinetic studies varies; and the number, size, and length of clinical efficacy studies vary. In both jurisdictions, however, every applicant compares its product with an originator product approved by the local regulator, and every application includes extensive clinical data. The suggestion that Colombia’s third pathway “follows a global trend” is plainly wrong.</p>
+		<sig-block>
+			<sig>Sincerely,</sig>
+			<sig><bold>Erika Lietzan</bold></sig>
+			<sig>Associate Professor of Law, University of Missouri School of Law, Columbia, Missouri, United States of America</sig>
+			<sig>lietzane@missouri.edu</sig>
+		</sig-block>
+	</body>
+	<back>
+		<ref-list id="references">
+			<title>REFERENCES</title>
+			<ref id="cit0001">
+				<label>1</label>
+				<mixed-citation>1 Gaviria A, Vaca González CP, Muñoz CG, Morales AA. El debate de la regulación de medicamentos biotecnológicos: Colombia en el contexto internacional. Rev Panam Salud Publica. 2016;40(1):40–7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gaviria</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Vaca González</surname>
+							<given-names>CP</given-names>
+						</name>
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>CG</given-names>
+						</name>
+						<name>
+							<surname>Morales</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<article-title>El debate de la regulación de medicamentos biotecnológicos: Colombia en el contexto internacional</article-title>
+					<source>Rev Panam Salud Publica.</source>
+					<year>2016</year>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>40</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="cit0002">
+				<label>2</label>
+				<mixed-citation>2 Committee for Medicinal Products for Human Use. Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: non-clinical and clinical issues. 18 December 2014. London: European Medicines Agency; 2015. (EMEA/CHMP/BMWP/42832/2005 Rev1). Available from: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf</ext-link> Accessed on 13 March 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Committee for Medicinal Products for Human Use</collab>
+					</person-group>
+					<source>Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: non-clinical and clinical issues. 18 December 2014</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>European Medicines Agency</publisher-name>
+					<year>2015</year>
+					<comment>(EMEA/CHMP/BMWP/42832/2005 Rev1). Available from: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf</ext-link> Accessed on 13 March 2017</comment>
+				</element-citation>
+			</ref>
+			<ref id="cit0003">
+				<label>3</label>
+				<mixed-citation>3 United States Code. 42 U.S.C. § 262(i), (k). Regulation of biological products. Washington: Government Publishing Office; 2011. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.gpo.gov/fdsys/pkg/USCODE-2010-title42/pdf/USCODE-2010-title42-chap6A-subchapII-partF-subpart1-sec262.pdf">https://www.gpo.gov/fdsys/pkg/USCODE-2010-title42/pdf/USCODE-2010-title42-chap6A-subchapII-partF-subpart1-sec262.pdf</ext-link> Accessed on 13 March 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>United States Code</collab>
+					</person-group>
+					<source>42 U.S.C. § 262(i), (k). Regulation of biological products</source>
+					<publisher-loc>Washington</publisher-loc>
+					<publisher-name>Government Publishing Office</publisher-name>
+					<year>2011</year>
+					<comment>Available from: <ext-link ext-link-type="uri" xlink:href="https://www.gpo.gov/fdsys/pkg/USCODE-2010-title42/pdf/USCODE-2010-title42-chap6A-subchapII-partF-subpart1-sec262.pdf">https://www.gpo.gov/fdsys/pkg/USCODE-2010-title42/pdf/USCODE-2010-title42-chap6A-subchapII-partF-subpart1-sec262.pdf</ext-link> Accessed on 13 March 2017</comment>
+				</element-citation>
+			</ref>
+			<ref id="cit0004">
+				<label>4</label>
+				<mixed-citation>4 U.S. Department of Health and Human Services. Guidance for industry: scientific considerations in demonstrating biosimilarity to a reference product. Washington: DHHS; 2015. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf">https://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf</ext-link> Accessed on 13 March 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>U.S. Department of Health and Human Services</collab>
+					</person-group>
+					<source>Guidance for industry: scientific considerations in demonstrating biosimilarity to a reference product</source>
+					<publisher-loc>Washington</publisher-loc>
+					<publisher-name>DHHS</publisher-name>
+					<year>2015</year>
+					<comment>Available from: <ext-link ext-link-type="uri" xlink:href="https://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf">https://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf</ext-link> Accessed on 13 March 2017</comment>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
