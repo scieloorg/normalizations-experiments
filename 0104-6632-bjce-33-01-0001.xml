@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.4" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">bjce</journal-id>
+			<journal-title-group>
+				<journal-title>Brazilian Journal of Chemical Engineering</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Braz. J. Chem. Eng.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0104-6632</issn>
+			<issn pub-type="epub">1678-4383</issn>
+			<publisher>
+				<publisher-name>Brazilian Society of Chemical Engineering</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1590/0104-6632.20160331s00003267</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>BIOPROCESS ENGINEERING</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>BIODECOMPOSITION OF JORDAN PHOSPHORITE BY PHOSPHATE-SOLUBILIZING FUNGI</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Teodosieva</surname>
+						<given-names>R.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+					<xref ref-type="fn" rid="fn1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bojinova</surname>
+						<given-names>D.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+				<aff id="aff1">
+					<institution content-type="orgname">University of Chemical Technology and Metallurgy</institution>
+					<addr-line>
+						<named-content content-type="city">Sofia</named-content>
+					</addr-line>
+					<country country="BG">Bulgaria</country>
+					<email>rteodosieva@abv.bg</email>
+					<institution content-type="original">University of Chemical Technology and Metallurgy, 8 Kliment Ohridski Blvd. 1756, Sofia, Bulgaria. Phone: + 359 28163247. E-mail: rteodosieva@abv.bg</institution>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub-ppub">
+				<season>Jan-Mar</season>
+				<year>2016</year>
+			</pub-date>
+			<volume>33</volume>
+			<issue>1</issue>
+			<fpage>1</fpage>
+			<lpage>11</lpage>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>02</month>
+					<year>2014</year>
+				</date>
+				<date date-type="rev-recd">
+					<day>11</day>
+					<month>12</month>
+					<year>2014</year>
+				</date>
+				<date date-type="accepted">
+					<day>08</day>
+					<month>02</month>
+					<year>2015</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The bio-solubilization of Jordan phosphorite by the phosphate-solubilizing fungus <italic>Aspergillus niger</italic> has been investigated. The effect of the phosphate concentration in the liquid medium, the duration of biodecomposition, titratable acidity and the effect of preliminary mechanical activation on the process of dissolution have been studied. The investigations indicate that almost complete extraction of P<sub>2</sub>O<sub>5</sub> from Jordan Phosphorite in a form utilizable by plants can be achieved. A maximum degree of P<sub>2</sub>O<sub>5</sub> extraction 99.10% was obtained on the 15<sup>-th</sup> day in a medium containing 0.5% w/v non-activated Jordan phosphorite. The preliminary mechanical activation of the phosphate facilitates the dissolution until a definite period of the bioconversion. Investigations with mechanically-activated Jordan phosphorite showed that a maximum extent of 92.40% of phosphate solubilization was observed on the 10<sup>-th</sup> day at a phosphorite concentration of 0.5% w/v.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Rock phosphate</kwd>
+				<kwd>Solubilization</kwd>
+				<kwd>Biodecomposition</kwd>
+				<kwd>Aspergillus niger</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUCTION</title>
+			<p>Phosphorus is second only to nitrogen in mineral nutrients that most commonly limit the growth of crops. A deficiency in soluble P for many agricultural soils is one of the major factors hampering crop production worldwide. Only 1 to 5% of the total soil P is in a soluble plant-available form (<xref ref-type="bibr" rid="B2">Arcand and Schneider, 2006</xref>). Usually it is introduced through the traditional phosphoric fertilizers- the super phos phates. It is known that the utilization of phosphorus from these fertilizers is about 15-20%, because a large portion of soluble inorganic phosphate applied to soil is rapidly immobilized soon after application and becomes unavailable to plants (<xref ref-type="bibr" rid="B5">Bojinova et al., 1997</xref>; <xref ref-type="bibr" rid="B39">Rodriguez and Fraga, 1999</xref>; <xref ref-type="bibr" rid="B23">Kang et al., 2007</xref>; <xref ref-type="bibr" rid="B24">Kang et al., 2008</xref>). This phenomenon occurs as a result of complex chemical and biochemical pro cesses in the soil, resulting in fixation and precipitation of P in the soil. This generally depends on pH and the soil type. The fixed forms of P in acidic soils are aluminum and iron phosphates, while in alkaline soils they are calcium phosphates (<xref ref-type="bibr" rid="B36">Rfaki et al., 2014</xref>). According to <xref ref-type="bibr" rid="B27">Lindsay (1979)</xref> super phosphate con tains a sufficient amount of calcium for the precipitation of its own P as dicalcium phosphate (CaHPO<sub>4</sub>) or dicalcium phosphate dihydrate (CaHPO<sub>4</sub>.2H<sub>2</sub>O).</p>
+			<p>The second major component of soil P is organic matter (nucleic acids, phospholipids, phosphotriesters, etc.). The organic forms of P may constitute up to 30-50% of the total phosphorus in most soils. Many of these P compounds are materials with high mo lecular mass. They can be assimilated by the cell (<xref ref-type="bibr" rid="B16">Goldstein, 1994</xref>) after their bioconversion to either soluble ionic phosphate (Pi, HPO<sub>4</sub><sup>2-</sup>, H<sub>2</sub>PO<sub>4</sub><sup>-</sup>), or low molecular-mass organic phosphate. These Ca-P com pounds are generally resistant to chemical hydrolysis and biodegradation, but recently several reports docu mented microbial release from these sources (<xref ref-type="bibr" rid="B39">Rodriguez and Fraga, 1999</xref>).</p>
+			<p>Based on the current rate of use, it is expected that the worlds, known reserves of high quality rock phosphate (RP) will be depleted within the current century. Consequently, the production of phosphate-based fertilizers will require the processing of low-grade rock phosphates at significantly higher cost and the production costs of P-fertilizers will rise (<xref ref-type="bibr" rid="B28">Mendes et al., 2013</xref>).</p>
+			<p>The development of new nonacid methods, appli cable to both high-quality and low-quality raw mate rials, is important for solving technological and eco logical effectiveness of phosphorus fertilizers pro duction. One of the available non-acid methods of rock phosphate processing is direct application of phosphates as a source of phosphorous in the soil. The phosphorus released from directly applied ground phosphate rock is often too low to provide sufficient P for crop uptake (<xref ref-type="bibr" rid="B46">Vassilev et al., 2001</xref>). The direct application of the phosphate as a fertilizer is limited due to its structure, resulting in low solubility. The improvement of phosphate structure through me chanical activation changes the phosphate chemistry and increases its solubility (<xref ref-type="bibr" rid="B20">Ibrahim et al., 2010</xref>).</p>
+			<p>The usage of phosphate-solubilizing microorgan isms (PSM) as a biotechnological alternative for pro ducing soluble P fertilizers from rock phosphate (RP) is the other alternative. Microorganisms are an im portant component in the soil. The ability of PSM to mobilize P from sparingly soluble sources can be a useful tool in P fertilization management. Some stud ies have shown that the product obtained after the treatment of RP with PSM or even the direct application of PSM to soil can improve plant growth and P uptake (<xref ref-type="bibr" rid="B28">Mendes et al., 2013</xref>). Therefore, an efficient process including microbial mediated ones able to exploit lower-grade RP and/or after native P sources (<xref ref-type="bibr" rid="B47">Vassilev, et al., 2013</xref>) at low cost has to be developed in the near future.</p>
+			<p>Soil bacteria and fungi mediate soil process such as decomposition, nutrient mobilization and mineralization, storage release of nutrients and water (<xref ref-type="bibr" rid="B34">Rashid et al., 2004</xref>). Several reports have indicated that some microorganisms are able to solubilize rock phos phates and to release soluble P (<xref ref-type="bibr" rid="B42">Sharma et al., 2012</xref>; <xref ref-type="bibr" rid="B40">Sanjotha et al., 2011</xref>; <xref ref-type="bibr" rid="B50">Yadav et al., 2011</xref>; <xref ref-type="bibr" rid="B8">Deepa et al., 2010</xref>; <xref ref-type="bibr" rid="B33">Pradhan and Sukla, 2005</xref>; <xref ref-type="bibr" rid="B23">Kang et al., 2002</xref>). A wide range of microorganisms able to solubilize inorganic P have been cultivated from soil, including bacteria (e.g <italic>Actinomycetes, Pseudomonas</italic> and <italic>Ba cillus</italic> spp.) and fungi (e.g. <italic>Aspergillus</italic> and <italic>Peniciluus</italic> spp.). It is generally accepted that the major mecha nism of mineral phosphate solubilization is the action of organic acids synthesized by soil microorgan isms. The production of organic acids such as citric, oxalic, gluconic, malonic, succinic, etc. by phosphate-solubilizing microorganisms has been well docu mented and seems to be most frequent agent for mine ral phosphate solubilization (<xref ref-type="bibr" rid="B25">Khan et al., 2007</xref>). Such organic acids can either directly dissolve the mineral phosphate as a result of anion exchange of PO<sub>4</sub><sup>3-</sup> by acid anion or can chelate both iron and aluminum ions associated with phosphate (<xref ref-type="bibr" rid="B32">Omar, 1998</xref>). Some elements that may be released during RP solubilization could affect these mechanisms by promoting changes in microbial metabolism (<xref ref-type="bibr" rid="B12">Gadd, 1993</xref>). The amount of P solubilized is dependent on the form of inorganic P precipitate used (including various sources of RP, pure Ca, iron and aluminum phos phates) along with culture and sampling procedures (<xref ref-type="bibr" rid="B49">Whitelaw et al. 1999</xref>; <xref ref-type="bibr" rid="B3">Barroso et al., 2006</xref>; <xref ref-type="bibr" rid="B38">Richardson and Simpson, 2011</xref>). In general, phosphate-solu bilizing fungi produce more acids and consequently exhibit greater phosphate-solubilizing activity than bacteria in both liquid and solid media (<xref ref-type="bibr" rid="B48">Venkateswarlu et al., 1984</xref>). The fact that all identified P-solubilizing fungi belong to the <italic>Aspergillus</italic> or <italic>Pene cillium</italic> genus agrees with reports of several authors (<xref ref-type="bibr" rid="B30">Nahas et al. 1994</xref>; <xref ref-type="bibr" rid="B13">Ghosh and Banik, 1998</xref>; <xref ref-type="bibr" rid="B34">Rashid et al. 2004</xref>; <xref ref-type="bibr" rid="B41">Seshadri et al., 2004</xref>; <xref ref-type="bibr" rid="B8">Deepa et al., 2010</xref>). Fungal diversity affects soil agglomeration, thereby increasing the soil quality and fertility (<xref ref-type="bibr" rid="B44">Tallapragada and Seshachala, 2012</xref>). Species of fungi, particularly <italic>Aspergillus</italic>, are capable to produce citric acid and form non-ionizable association with calcium. <italic>Asper gillus niger</italic>, used in the industrial production of citric acid, has been reported as one of the most effective organisms for rock phosphate solubilization (<xref ref-type="bibr" rid="B2">Arcand and Schneider, 2006</xref>).</p>
+			<p>The dissolution of different types of P-contained resources (including Ca, iron and aluminum phosphates and various sources of rock phosphate) by <italic>Aspergillus niger</italic> has been demonstrated earlier (Vassilev et al. 2005; <xref ref-type="bibr" rid="B31">Nahas, 1996</xref>; <xref ref-type="bibr" rid="B5">Bojinova et al., 1997</xref>; <xref ref-type="bibr" rid="B15">Goenadi et al. 2000</xref>; <xref ref-type="bibr" rid="B3">Barroso et al., 2006</xref>; <xref ref-type="bibr" rid="B6">Bojinova et al., 2008</xref>; <xref ref-type="bibr" rid="B28">Mendes et al., 2013</xref>). The amount of P solubilized in culture is also depend on the composition of the medium (carbon and nitrogen composition), medium volume, pulp density, particle size, initial pH of the medium, temperature, inoculum concentration, along with culture and sampling procedures for the solubilization of the phosphates.</p>
+			<p>Solubilization of inorganic phosphate by microorganisms involves a wide range of processes concern ing the secretion of organic acids, lowering of the pH as a result of acid production, ion chelating and ex change reactions which are a part of the phosphorus cycle (<xref ref-type="bibr" rid="B1">Akuntokin et al., 2007</xref>).</p>
+			<p>The aim of the present study is to investigate the biodecomposition of Jordan phosphorite using the phosphate-solubilizing fungus <italic>Aspergillus niger</italic>. We use in our investigation Jordan phosphorite, which has not been studied with this objective. Jordan phosphorite is imported into Bulgaria for the phosphoric fertilizer industry. The effects of the phosphate con centration in the liquid medium, the duration of bio decomposition, the concentration of citric acid generated from the fungus and results with/without preliminary mechanical activation of the phosphorite, were studied.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>MATERIALS AND METHODS</title>
+			<sec>
+				<title>Natural Phosphate</title>
+				<p>The chemical composition of the initial Jordan phosphorite (JP) is shown in <xref ref-type="table" rid="t1">Table 1</xref>. The fraction below 0.2 mm was used. The total content of phosphorus was determined by dissolving in 25% HCl, the citric-soluble and water-soluble phosphorus was determined after extracting with 2% citric acid or water followed by spectrophotometric analysis as a vanadate-molybdate complex (<xref ref-type="bibr" rid="B22">Jackson, 1967</xref>). Ca was determined complexometrically, Si by weight and the other elements using Atomic Absorption Spectro photometry (AAS).</p>
+				<table-wrap id="t1">
+					<label>Table 1</label>
+					<caption>
+						<title>Chemical composition of Jordan phosphorite.</title>
+					</caption>
+					<table frame="box" rules="all">
+						<thead>
+							<tr align="center">
+								<th>Al<sub>2</sub>O<sub>3</sub></th>
+								<th>CaO</th>
+								<th>Fe<sub>2</sub>O<sub>3</sub></th>
+								<th>SiO<sub>2</sub></th>
+								<th>TiO<sub>2</sub></th>
+								<th>MgO</th>
+								<th>P<sub>2</sub>O<sub>5</sub></th>
+								<th>Pb</th>
+								<th>Cu</th>
+								<th>Zn</th>
+								<th>Cd</th>
+								<th>Ni</th>
+								<th>Ag</th>
+								<th>As</th>
+								<th>Mo</th>
+							</tr>
+							<tr align="center">
+								<th colspan="7">%</th>
+								<th colspan="8">mg/kg</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr align="center">
+								<td>0.26</td>
+								<td>53.69</td>
+								<td>0.27</td>
+								<td>2.60</td>
+								<td>0.02</td>
+								<td>0.26</td>
+								<td>35.37</td>
+								<td>18</td>
+								<td>32</td>
+								<td>183</td>
+								<td>4</td>
+								<td>10</td>
+								<td>1</td>
+								<td>7</td>
+								<td>4</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+				<p>The mechanical activation was performed for 4 hour using a &quot;Pulverisite 5&quot; planetary mill. Metal balls of 20 mm diameter were used and the rotation applied was 320 rpm. The weight ratio of phosphorite to milling bodies was 1:20.</p>
+				<p>The phosphorus content was determined in the non-activated Jordan phosphorite (NAJP) as well as after its mechanical activation (MAJP). It was analyzed as total P<sub>2</sub>O<sub>5</sub> (P<sub>2</sub>O<sub>5 t.</sub>), citric-soluble (P<sub>2</sub>O<sub>5 c.s.</sub>) and water-soluble (P<sub>2</sub>O<sub>5 w.s</sub>). The phosphate P<sub>2</sub>O<sub>5 t</sub> value was 35.37% for the both examined phosphate types (NAJP and MAJP). The values of P<sub>2</sub>O<sub>5 c.s.</sub> were 11.75% (NAJP) and 16.99% (MAJP) and those of P<sub>2</sub>O<sub>5 w.s.</sub> were 0.01% and 0.03%, respectively.</p>
+			</sec>
+			<sec>
+				<title>Microorganisms and Nutritive Medium</title>
+				<p>Investigations were performed using the <italic>Aspergil lus niger</italic> strain obtained from the Institute for Microbiology, Bulgarian Academy of Sciences. The bioconversion was studied through deep incubation of the microorganisms in a liquid nutritive medium contain ing (in g/L): Glucose - 120; (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> - 3; KH<sub>2</sub>PO<sub>4</sub> - 1; K<sub>2</sub>HPO<sub>4</sub> - 1; MgSO<sub>4</sub>.10H<sub>2</sub>O - 0.5; MnSO<sub>4</sub>.5H<sub>2</sub>O - 0.02; FeCl<sub>3</sub>.6H<sub>2</sub>O - 0.01.</p>
+				<p>The initial pH value of the nutritive medium was 6.8.</p>
+			</sec>
+			<sec>
+				<title>Experimental Methods</title>
+				<p>Incubation with <italic>Aspergillus niger</italic> was carried out in 300 ml Erlenmeyer flasks containing 100 ml of sterilized nutritive medium. After cooling to 30 ºC, 1 mL inoculums with a concentration of spores of 1×10<sup>7</sup>/mL and JP (MAJP and NAJP) were introduced into the reaction medium. The flasks were incubated in a shaking water bath at 31±1 ºC for different pe riod of time with a rotational speed of 150 rpm. The concentrations of NAJP and MAJP in the nutrient medium were 0.5, 1 and 2% w/v. After different time intervals, the samples were filtered and pH, sugar content (<xref ref-type="bibr" rid="B4">Bernfeld, 1959</xref>), titratable acidity through titration with 0.1 N NaOH and the content of water-soluble P<sub>2</sub>O<sub>5 w.s.</sub> (c<sub>1</sub>) in this first filtrate were deter mined. The precipitate (biomass and remaining min eral mass) was treated for 2 hours with 2% citric acid at room temperature. After filtration the solution ob tained was analyzed for citrate-soluble P<sub>2</sub>O<sub>5 c.s..</sub>(c<sub>2</sub>). The precipitate, which contained residual mineral mass and biomass was dried to a constant weight at 60 ºC and was ashed to a constant weight at 500 ºC. The loss of weight during heating is equal to the bio mass produced during cultivation. The P<sub>2</sub>O<sub>5</sub> content in the residue of mineral mass after thermal treat ment was also determined - P<sub>2</sub>O<sub>5 m.m</sub>. The P<sub>2</sub>O<sub>5</sub> con tent in the biomass (P<sub>2</sub>O<sub>5 b.</sub>) was determined using material balance for P<sub>2</sub>O<sub>5</sub> based on the quantity of P<sub>2</sub>O<sub>5</sub> input in the system (with phosphorite and nutri tive medium) and, at the exit, after biodecomposition, (P<sub>2</sub>O<sub>5 w.s.</sub>, P<sub>2</sub>O<sub>5 c.s.</sub>, and P<sub>2</sub>O<sub>5 m.m</sub>).</p>
+				<p>The process was analyzed by using two parallel samples at various times of incubation and the results obtained were averaged.</p>
+				<p>Investigations of solubilization of Jordan phospho rite in the nutritive medium without microorganisms were made for the longest incubation period of 15 days at the studied concentrations of Jordan phos phorite. The obtained α value for 0.5, 1.0 and 2.0% JP was nearly 2%.</p>
+			</sec>
+			<sec>
+				<title>Calculation of the Conversion of Jordan Phosphorite</title>
+				<p>On the basis of the results obtained, the extent of the JP solubilization and conversion of P<sub>2</sub>O<sub>5</sub> to wa ter-soluble (α<sub>1</sub>), citrate-soluble (α<sub>2</sub>) forms and P<sub>2</sub>O<sub>5</sub> in biomass (α<sub>3</sub>) were determined and expressed as follows:</p>
+				<disp-formula id="e1">
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-e01.tif"/>
+				</disp-formula>
+				<disp-formula id="e2">
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-e02.tif"/>
+				</disp-formula>
+				<disp-formula id="e3">
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-e03.tif"/>
+				</disp-formula>
+				<p>The total degree of extraction is:</p>
+				<disp-formula id="e4">
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-e04.tif"/>
+				</disp-formula>
+				<p>where:</p>
+				<p>P<sub>2</sub>O<sub>5</sub> w.s. - P<sub>2</sub>O<sub>5</sub> content in the first filtrate (g)</p>
+				<p>P<sub>2</sub>O<sub>5</sub> c.s - P<sub>2</sub>O<sub>5</sub> content in the second filtrate (g)</p>
+				<p>P<sub>2</sub>O<sub>5</sub> b - P<sub>2</sub>O<sub>5</sub> content in the dry biomass (g)</p>
+				<p>P<sub>2</sub>O<sub>5</sub> t. - total P<sub>2</sub>O<sub>5</sub> content in the system, with the phosphorite and nutritive medium (g).</p>
+				<p>A simple correlation was run to determine correlation coefficients (r) by the method of Ordinary Least Squares (OLS).</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>RESULTS AND DISCUSSION</title>
+			<p>
+				<xref ref-type="fig" rid="f1">Figure 1</xref> presents the change in the concentration of glucose and citric acid (A) and the extents of P<sub>2</sub>O<sub>5</sub> extraction α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B) in nutritive medium containing 0.5% w/v NAJP.</p>
+			<p>Microorganisms consume glucose as a carbohy drate source and its concentration decreased from 120 g/L at the beginning of the experiment to 11.5 g/L on the 15<sup>th</sup> day. The titratable acidity slowly in creased up to the 12<sup>th</sup> day of incubation when it reached a maximum of 10.24 µE.mL<sup>-1</sup>; it then de creased to the end of the experiment, when its value was 7.5 µE.mL<sup>-1</sup>. As seen from the data, the extent of P<sub>2</sub>O<sub>5</sub> extraction in water-soluble form (α<sub>1</sub>) increased with time and achieved 73.70% on the 15<sup>th</sup> day. The extent of P<sub>2</sub>O<sub>5</sub> extraction in citric-soluble form (α<sub>2</sub>) slowly decreased from 20.80% on the 3<sup>rd</sup> day to 12.20% at the end of the period. The total extent of P<sub>2</sub>O<sub>5</sub> extraction (α) achieved a maximum of 99.10% on the 15<sup>th</sup> day.</p>
+			<p>
+				<fig id="f1">
+					<label>Figure 1</label>
+					<caption>
+						<title>Change in the concentration of glucose and the titratable acidity (A) in the culture medium containing 0.5% w/v NAJP, and extents of P<sub>2</sub>O<sub>5</sub> ex traction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 3, 5, 9, 12 and 15 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf01.tif"/>
+				</fig>
+			</p>
+			<p>When 0.5% w/v MAJP was added to the nutritive medium the titratable acidity increased and reached a value of 10.66 µE.mL<sup>-1</sup> on the 12<sup>th</sup> day (<xref ref-type="fig" rid="f2">Figure 2A</xref>).</p>
+			<p>The extents of P<sub>2</sub>O<sub>5</sub> extraction are insignificantly lower than those in the investigation with 0.5% w/v NAJP, but these values were achieved for a shorter period of incubation (<xref ref-type="fig" rid="f2">Figure 2B</xref>). For example, using 0.5% NAJP the Σ (α<sub>1</sub>+ α<sub>2</sub>) and α reached values of 82% and 92.7% on the 12<sup>th</sup> day. If MAJP was used under the same conditions the value for the Σ (α<sub>1</sub>+ α<sub>2</sub>) and α were 84% and 92.4% on the 10<sup>th</sup> day. α<sub>2</sub> de creased in the range of 23.4 to 21.25 at the end of the incubation period. The quantity of P<sub>2</sub>O<sub>5,</sub> separated together with biomass (α<sub>3</sub>) increased from the first day up to the 15<sup>th</sup> day for (NAJP) and 12<sup>th</sup> day for (MAJP) with the values in the range from 4.7 to 13.2% and from 1.29 to 10%, respectively.</p>
+			<p>
+				<fig id="f2">
+					<label>Figure 2</label>
+					<caption>
+						<title>Change in the concentration of glucose and the titratable acidity (A) in the culture medium containing 0.5% w/v MAJP, and extents of P<sub>2</sub>O<sub>5</sub> extraction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 2, 4, 6, 8, 10 and 12 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf02.tif"/>
+				</fig>
+			</p>
+			<p>With increasing concentration of JP (NAJP and MAJP) in the nutritive medium the extents of P<sub>2</sub>O<sub>5</sub> extraction fall (<xref ref-type="fig" rid="f3">Figure 3</xref> and <xref ref-type="fig" rid="f4">Figure 4</xref>). The result shows that the higher rate of phosphate dissolution was achieved in the investigations with 1% w/v NAJP - α reached a maximum of 80.80% on the 15<sup>th</sup> day (<xref ref-type="fig" rid="f3">Figure 3B</xref>).</p>
+			<p>The maximum of α in nutritive medium containing 1% w/v MAJP was 69.29% on the 12<sup>th</sup> day (<xref ref-type="fig" rid="f4">Figure 4B</xref>). If we compare the results for Σ (α<sub>1</sub>+ α<sub>2</sub>) and α, the same tendency can be seen. In the investigations with NAJP Σ (α<sub>1</sub>+ α<sub>2</sub>) had a value of 56% on the 9<sup>th</sup> day, but for MAJP this value was 59% on the 8<sup>th</sup> day. In the same conditions, the α values were 61.5% and 64%. The reason is the higher values of α<sub>3</sub> for MAJP compared with those for NAJP. The titratable acidity is higher in the experiments with MAJP - 13.88 µE.mL<sup>-1</sup> on the 10<sup>th</sup> day (<xref ref-type="fig" rid="f4">Figure 4A</xref>) compared with 11 µE.ml<sup>-1</sup> on the 12<sup>th</sup> day for NAJP (<xref ref-type="fig" rid="f3">Figure 3A</xref>). The results show that there is no correlation between citric acid produced and the phosphate solubilization after the 12<sup>th</sup> day (NAJP) and 10<sup>th</sup> day (MAJP).</p>
+			<p>Increasing the JP concentration to 2% w/v in liquid medium the titratable acidity increases (<xref ref-type="fig" rid="f5">Figure 5</xref> and <xref ref-type="fig" rid="f6">Figure 6</xref>). In the experiment with 2% w/v NAJP it reached a maximum of 13 µE.mL<sup>-1</sup> on the 12<sup>th</sup> day and slowly decreased to the end of the period when its value was 11.2 µE.mL<sup>-1</sup> (<xref ref-type="fig" rid="f5">Figure 5A</xref>). In the nutritive medium containing 2% w/v MAJP the titratable acidity achieved a value of 15.7 µE.mL<sup>-1</sup> on the 12<sup>th</sup> day (<xref ref-type="fig" rid="f6">Figure 6A</xref>).</p>
+			<p>
+				<fig id="f3">
+					<label>Figure 3</label>
+					<caption>
+						<title>Change in the concentration of the glucose and the titratable acidity (A) in the culture medium containing 1.0% w/v NAJP, and extents of P<sub>2</sub>O<sub>5</sub> extraction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 3, 5, 9, 12 and 15 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf03.tif"/>
+				</fig>
+				<fig id="f4">
+					<label>Figure 4</label>
+					<caption>
+						<title>Change in the concentration of the glucose and the titratable acidity (A) in the culture medium containing 1.0% w/v MAJP, and extents of P<sub>2</sub>O<sub>5</sub> extraction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 2, 4, 6, 8, 10 and 12 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf04.tif"/>
+				</fig>
+				<fig id="f5">
+					<label>Figure 5</label>
+					<caption>
+						<title>Change in the concentration of the glucose and the titratable acidity (A) in the culture medium containing 2.0% w/v NAJP, and extents of P<sub>2</sub>O<sub>5</sub> extraction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 3, 5, 9, 12 and 15 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf05.tif"/>
+				</fig>
+				<fig id="f6">
+					<label>Figure 6</label>
+					<caption>
+						<title>Change in the concentration of glucose and the titratable acidity (A) in the culture medium containing 2.0% w/v MAJP, and extents of P<sub>2</sub>O<sub>5</sub> extraction, α<sub>1</sub>, α<sub>2</sub>, α<sub>3</sub>, α (B), after 2, 4, 6, 8, 10 and 12 days of incubation. The values are the average ± SD (p ˂ 0.05) from duplicate experiments.</title>
+					</caption>
+					<graphic xlink:href="0104-6632-bjce-33-01-0001-gf06.tif"/>
+				</fig>
+			</p>
+			<p>There is no significant difference between the extent of P<sub>2</sub>O<sub>5</sub> extraction in both experiments (2% w/v NAJP and 2% w/v MAJP). The total degree of phosphate solubilization (α) had a maximum value of 46.02% in the experiments with NAJP on the 12<sup>th</sup> day (<xref ref-type="fig" rid="f5">Figure 5B</xref>) and 49.735% in the investigations with MAJP on the 10<sup>th</sup> day (<xref ref-type="fig" rid="f6">Figure 6B</xref>), respectively, and these values were preserved to the end of the incubation period. The same tendency was observed for the lower concentrations connected with higher α value and shorter time: for the study with 2% NAJP, α had a value of 33.4% on the 9<sup>th</sup> day, but for MAJP a value of 39.5% was obtained on the 8<sup>th</sup> day.</p>
+			<p>The culture pH and the concentration of P<sub>2</sub>O<sub>5</sub> extracted from the phosphate detected in the first filtrate, the second filtrate and in biomass expressed as P<sub>2</sub>O<sub>5</sub> (C<sub>1</sub>, C<sub>2</sub>, C<sub>3</sub>) and their sum (C) in the investigation with NAJP in the culture are presented in <xref ref-type="table" rid="t2">Table 2</xref>.</p>
+			<table-wrap id="t2">
+				<label>Table 2</label>
+				<caption>
+					<title>Change in culture pH and P concentra­tions (C, g/L) in different forms, after 3, 5, 9, 12 and 15 days of incubation in nutritive medium containing 0.5, 1.0 and 2.0% NAJP.</title>
+				</caption>
+				<table frame="box" rules="all">
+					<thead>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<th rowspan="2">Day</th>
+							<th rowspan="2">pH</th>
+							<th colspan="4">Concentration of P<sub>2</sub>O<sub>5</sub> (g/L)</th>
+						</tr>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<th>C<sub>1</sub></th>
+							<th>C<sub>2</sub></th>
+							<th>C<sub>3</sub></th>
+							<th>C</th>
+						</tr>
+					</thead>
+					<tbody align="center">
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<td colspan="6"><bold>0. 5% NAJP</bold></td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>3.30</td>
+							<td>1.34</td>
+							<td>0.52</td>
+							<td>0.12</td>
+							<td>1.98</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>3.30</td>
+							<td>1.32</td>
+							<td>0.58</td>
+							<td>0.17</td>
+							<td>2.07</td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td>3.30</td>
+							<td>1.57</td>
+							<td>0.45</td>
+							<td>0.25</td>
+							<td>2.27</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>3.30</td>
+							<td>1.66</td>
+							<td>0.39</td>
+							<td>0.27</td>
+							<td>2.32</td>
+						</tr>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<td>15</td>
+							<td>3.31</td>
+							<td>1.86</td>
+							<td>0.31</td>
+							<td>0.33</td>
+							<td>2.50</td>
+						</tr>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<td colspan="6"><bold>1% NAJP</bold></td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>3.30</td>
+							<td>1.38</td>
+							<td>0.88</td>
+							<td>0.19</td>
+							<td>2.45</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>3.30</td>
+							<td>1.45</td>
+							<td>0.90</td>
+							<td>0.18</td>
+							<td>2.53</td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td>3.30</td>
+							<td>1.45</td>
+							<td>0.90</td>
+							<td>0.23</td>
+							<td>2.58</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>3.30</td>
+							<td>1.94</td>
+							<td>0.80</td>
+							<td>0.26</td>
+							<td>3.00</td>
+						</tr>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<td>15</td>
+							<td>3.31</td>
+							<td>2.18</td>
+							<td>0.81</td>
+							<td>0.41</td>
+							<td>3.40</td>
+						</tr>
+						<tr align="center" style="border-bottom-width:thin;border-bottom-style:solid">
+							<td colspan="6">2% NAJP</td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>3.90</td>
+							<td>0.58</td>
+							<td>0.98</td>
+							<td>0.15</td>
+							<td>1.71</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>3.30</td>
+							<td>0.85</td>
+							<td>1.00</td>
+							<td>0.16</td>
+							<td>2.01</td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td>3.30</td>
+							<td>1.10</td>
+							<td>1.05</td>
+							<td>0.38</td>
+							<td>2.53</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>3.30</td>
+							<td>2.14</td>
+							<td>1.09</td>
+							<td>0.43</td>
+							<td>3.66</td>
+						</tr>
+						<tr>
+							<td>15</td>
+							<td>3.30</td>
+							<td>1.97</td>
+							<td>1.06</td>
+							<td>0.41</td>
+							<td>3.44</td>
+						</tr>
+					</tbody>
+				</table>
+				<table-wrap-foot>
+					<fn id="TFN01">
+						<label>*</label>
+						<p> c<sub>1</sub> - P<sub>2</sub>O<sub>5 w.s.</sub> ; c<sub>2</sub> - P<sub>2</sub>O<sub>5 c.s.</sub> ; c<sub>3</sub> - P<sub>2</sub>O<sub>5 b.</sub>; c – ∑ (c<sub>1</sub>+c<sub>2</sub>+c<sub>3</sub>)</p>
+						<p>The values are the average ± SD (p ˂ 0.05) from duplicate experiments</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<p>The culture pH of the initial nutritive medium de creased from 6.8 to 3.3 immediately on the 3<sup>rd</sup> day and preserved this value to the end of the period for all the experiments. The concentration of the P<sub>2</sub>O<sub>5</sub> extracted from the phosphate (C) increased with in creasing concentration of NAJP and had a constant value of 3.66 g/L from the 12<sup>th</sup> day to the end of the incubation period at the highest concentration of 2% w/v NAJP in the liquid.</p>
+			<p>The result from the investigation with MAJP showed that the culture pH also decreased insignificantly with the incubation period (<xref ref-type="table" rid="t3">Table 3</xref>). The con centrations of P<sub>2</sub>O<sub>5</sub> in the filtrates are about two times higher than those obtained when the culture contained NAJP. The concentration of P<sub>2</sub>O<sub>5</sub> released (C) achieved a value of 6.31 g/L on the 15<sup>th</sup> in the experiment with 2% w/v MAJP.</p>
+			<table-wrap id="t3">
+				<label>Table 3</label>
+				<caption>
+					<title>Change in culture pH and P concentra­tions (C, g/L) in different forms, after 2, 4, 6, 8, 10 and 12 days of incubation in nutritive medium containing 0.5, 1.0 and 2% MAJP.</title>
+				</caption>
+				<table frame="hsides" rules="groups" style="border-width:thin;border-style:solid">
+					<thead align="center">
+						<tr style="border-width:thin;border-style:solid">
+							<th rowspan="2">Day</th>
+							<th rowspan="2">pH</th>
+							<th colspan="4">Concentration of P<sub>2</sub>O<sub>5</sub> (g/L)</th>
+						</tr>
+						<tr style="border-width:thin;border-style:solid">
+							<th>C<sub>1</sub></th>
+							<th>C<sub>2</sub></th>
+							<th>C<sub>3</sub></th>
+							<th>C</th>
+						</tr>
+					</thead>
+					<tbody align="center">
+						<tr style="border-width:thin;border-style:solid">
+							<td colspan="6"><bold>0. 5% MAJP</bold></td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>3.22</td>
+							<td>1.22</td>
+							<td>0.67</td>
+							<td>0.05</td>
+							<td>1.94</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>3.02</td>
+							<td>1.64</td>
+							<td>0.58</td>
+							<td>0.15</td>
+							<td>2.37</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>3.00</td>
+							<td>1.77</td>
+							<td>0.66</td>
+							<td>0.20</td>
+							<td>2.63</td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>2.83</td>
+							<td>1.96</td>
+							<td>0.71</td>
+							<td>0.26</td>
+							<td>2.93</td>
+						</tr>
+						<tr>
+							<td>10</td>
+							<td>2.61</td>
+							<td>2.28</td>
+							<td>0.77</td>
+							<td>0.29</td>
+							<td>3.34</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>2.74</td>
+							<td>2.31</td>
+							<td>0.77</td>
+							<td>0.38</td>
+							<td>3.46</td>
+						</tr>
+						<tr style="border-width:thin;border-style:solid">
+							<td colspan="6"><bold>1% MAJP</bold></td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>3.28</td>
+							<td>1.33</td>
+							<td>1.19</td>
+							<td>0.06</td>
+							<td>2.58</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>3.14</td>
+							<td>1.66</td>
+							<td>1.00</td>
+							<td>0.17</td>
+							<td>2.83</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>3.14</td>
+							<td>1.94</td>
+							<td>1.00</td>
+							<td>0.21</td>
+							<td>3.15</td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>3.00</td>
+							<td>2.09</td>
+							<td>1.09</td>
+							<td>0.26</td>
+							<td>3.44</td>
+						</tr>
+						<tr>
+							<td>10</td>
+							<td>2.86</td>
+							<td>2.55</td>
+							<td>1.05</td>
+							<td>0.36</td>
+							<td>3.96</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>2.79</td>
+							<td>2.61</td>
+							<td>0.91</td>
+							<td>0.41</td>
+							<td>3.93</td>
+						</tr>
+						<tr style="border-width:thin;border-style:solid">
+							<td colspan="6"><bold>2% MAJP</bold></td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>3.37</td>
+							<td>1.39</td>
+							<td>1.53</td>
+							<td>0.15</td>
+							<td>3.07</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>3.22</td>
+							<td>1.72</td>
+							<td>1.67</td>
+							<td>0.25</td>
+							<td>3.64</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>3.22</td>
+							<td>1.83</td>
+							<td>1.65</td>
+							<td>0.26</td>
+							<td>3.74</td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>2.96</td>
+							<td>2.92</td>
+							<td>1.59</td>
+							<td>0.47</td>
+							<td>4.98</td>
+						</tr>
+						<tr>
+							<td>10</td>
+							<td>2.89</td>
+							<td>3.27</td>
+							<td>1.50</td>
+							<td>0.52</td>
+							<td>5.29</td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>2.91</td>
+							<td>3.86</td>
+							<td>1.89</td>
+							<td>0.56</td>
+							<td>6.31</td>
+						</tr>
+					</tbody>
+				</table>
+				<table-wrap-foot>
+					<fn id="TFN02">
+						<label>*</label>
+						<p> c<sub>1</sub> - P<sub>2</sub>O<sub>5 w.s.</sub> ; c<sub>2</sub> - P<sub>2</sub>O<sub>5 c.s.</sub> ; c<sub>3</sub> - P<sub>2</sub>O<sub>5 b</sub> ; c - ∑ (c<sub>1</sub>+c<sub>2</sub>+c<sub>3</sub>)</p>
+						<p>The values are the average ± SD (p ˂ 0.05) from duplicate experiments</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<p>The results from the present as well as earlier (<xref ref-type="bibr" rid="B21">Ivanova et al., 2006</xref>; <xref ref-type="bibr" rid="B6">Bojinova et al., 2008a</xref>) studies indicate that the lower the quantity of phosphate applicable, the greater is the conversion percentage, independent of the type of JP used (NAJP or MAJP). These results are in conformity with those reported by others (<xref ref-type="bibr" rid="B29">Nahas et al., 1990</xref>; <xref ref-type="bibr" rid="B13">Ghosh and Banic, 1998</xref>; <xref ref-type="bibr" rid="B35">Reddy et al., 2002</xref>).</p>
+			<p>In our earlier study we also documented that pre liminary mechanical activation facilitated phosphate dissolution during bioconversion of Morocco phos phorite (MP) by <italic>Aspergillus niger</italic> up to the 3<sup>rd</sup> day, when the total P<sub>2</sub>O<sub>5</sub> extraction had higher values using AMP (<xref ref-type="bibr" rid="B7">Bojinova et al., 2008b</xref>). In conformity with these investigations a positive correlation be tween the solubility of nonactivated (NMP) and activated Morocco phosphorite (AMP) and titratable acidity was observed to the 12<sup>th</sup> day of the incubation period with 1% w/v in the liquid culture. When the incubation time was prolonged to the 15<sup>th</sup> day under the same conditions this correlation was negative. If the concentration of NMP and AMP was 2% the total P<sub>2</sub>O<sub>5</sub> extraction increased with increasing production of citric acid for all investigated incubation periods of time. According to the present studies the data showed that in the investigations with NAJP (0.5%, 1% and 2%) the tendency is similar. The titratable acidity achieved a maximum on the 12<sup>th</sup> day of incubation and decreased to the 15<sup>th</sup> day (<xref ref-type="fig" rid="f1">Figure 1</xref>, <xref ref-type="fig" rid="f3">Figure 3</xref> and <xref ref-type="fig" rid="f5">Figure 5</xref>), but the extent of P<sub>2</sub>O<sub>5</sub> extraction into water-soluble forms (α<sub>1</sub>) and the total degree of extraction (α) increased for all periods of time investigated. The decrease of the titratable acidity after the 12<sup>th</sup> day (<xref ref-type="fig" rid="f3">Figure 3</xref>), 10<sup>th</sup> day (<xref ref-type="fig" rid="f4">Figure 4</xref>) and 12<sup>th</sup>day (<xref ref-type="fig" rid="f5">Figure 5</xref>), respectively, can be explained by the partial neutralization as Ca-citrate of the citric acid produced with the Ca<sup>2+</sup> ions liberated as a result of de composition of the phosphate structure. As seen from the data (<xref ref-type="fig" rid="f2">Figure 2</xref>, <xref ref-type="fig" rid="f4">Figure 4</xref> and <xref ref-type="fig" rid="f6">Figure 6</xref>) for experiments with MAJP, α<sub>1</sub> and α increased together with increasing titratable acidity, independent of the con centration of MAJP used. The correlation coefficients (r) between the quantities of extracted P (C, g/L) and the titratable acidity for different concentrations of NAJP were: (0.64 at 0.5% w/v; 0.92 at 1% w/v and 1.0 at 2% w/v, p<sub>&lt;</sub> 0.001), and: (1.0 at 0.5% w/v; 0.96 at 1% w/v and 0.98 at 2% w/v, p<sub>&lt;</sub> 0.001) for MAJP. This is in accordance with the results obtained by others (<xref ref-type="bibr" rid="B31">Nahas et al., 1996</xref>; <xref ref-type="bibr" rid="B17">Goldstein, 2000</xref>).</p>
+			<p>The results show a negative correlation between the final pH value and titratable acidity. However, the results with MAJP showed values for r (-0.96; -0.96; -0.90, p<sub>&lt;</sub> 0.001) distinct from the results with NAJP (r = -0.001; -0.60; -0.60, p<sub>&lt;</sub> 0.001), respectively for 0.5, 1.0 and 2% w/v RP.</p>
+			<p>The result obtained by Rashid <italic>et al</italic>. (<xref ref-type="bibr" rid="B34">Rashid et al., 2004</xref>; <xref ref-type="bibr" rid="B8">Deepa et al., 2010</xref>) show a positive correlation between organic acid excretion and P solubilization and a negative correlation between pH and P solubilization. Our results indicate a negative correlation between the quantity of P extracted from the phosphate (C, g/L) and the change of pH. The values of the correlation coefficients (r) were (-0.74; -0.85 and -0.65, p<sub>&lt;</sub> 0.001) for NAJP and (-0.96; -0.97 and -0.94, p<sub>&lt;</sub> 0.001) for MAJP at similar conditions.</p>
+			<p>Many of the calcium phosphates, including rock phosphate ores (fluorapatite, francolite), are insoluble in soil with respect to the release of inorganic P at rates necessary to support agronomic levels of plant growth (<xref ref-type="bibr" rid="B17">Goldstein, 2000</xref>). <xref ref-type="bibr" rid="B14">Gerretsen (1948)</xref> first showed that pure cultures of soil bacteria could increase the P nutrition of plants through increased solubility of Ca phosphates. Their solubility in creases with a decrease of soil pH. Phosphate solubilization is the result of the combined effect of pH decrease and organic acid production (<xref ref-type="bibr" rid="B10">Fankem et al., 2006</xref>). Obviously, various chemical elements contained in phosphates are liberated concurrently with P during microbial solubilization. The fungus <italic>Asper gillus niger</italic> used in our investigations produced mainly citric acid and low concentrations of other organic acids. The dynamic variations of the medium conditions due to changes in <italic>Aspergillus niger</italic> metabolism and in chemical equilibria are probably the reason for the variations in the solubilized P concentrations (P<sub>2</sub>O<sub>5 c.s.</sub> and P<sub>2</sub>O<sub>5 b.</sub>) observed throughout the incubation (<xref ref-type="bibr" rid="B28">Mendez et al., 2013</xref>). <xref ref-type="bibr" rid="B45">Vassilev et al. (1995)</xref> observed that decreases in soluble P in the fermentation medium were accompanied by de creases in titratable acidity and suggested that this resulted from the consumption of organic acid by fungus under conditions of C depletion. The data obtained in our work support this hypothesis since the decreases in titratable acidity apparently occurred after the 12<sup>th</sup> day of incubation (<xref ref-type="fig" rid="f1">Figures 1</xref>, <xref ref-type="fig" rid="f2">2</xref> and <xref ref-type="fig" rid="f2">3</xref>) in response to the beginning of a new growth cycle, when the fungus may have used part of the organic acid in the metabolism. The fact that the concentration of biomass increased constantly from the 1<sup>st</sup> to the 15<sup>th</sup> day (NAJP) or from the 1<sup>st</sup> to the 12<sup>th</sup> day (MAJP) may be a proof for this. At the same time the organic acids form complexes with metalions like Ca, Fe and Al, liberating soluble phosphate. This fact is the other reason for the increasing titratable acidity.</p>
+			<p>The extent of P<sub>2</sub>O<sub>5</sub> extraction in citric soluble form (α<sub>2</sub>) decreased from 20.8% to 12.2% (NAJP) and from 23.4% to 20.5% (MAJP), from the 3<sup>rd</sup> to the 15<sup>th</sup> day and from the 2<sup>nd</sup> to the 12<sup>th</sup> day, respectively, when the concentration was 0.5% (<xref ref-type="fig" rid="f1">Figure 1</xref> and <xref ref-type="fig" rid="f2">Figure 2</xref>). The same tendency can be seen for the other concentrations of RP used in the study (<xref ref-type="fig" rid="f3">Figure 3</xref> - <xref ref-type="fig" rid="f6">Figure 6</xref>). Obviously, the bioconversion was per formed in a complex heterogeneous system with simul taneously occurring biosynthetic and chemical reactions, with different velocities depending on the continuously changing concentrations of macro- and microelements, diffusion velocity, etc. Phosphorus-containing compounds and other ions (Ca<sup>2+</sup>, Mg<sup>2+</sup>, Fe<sup>2+</sup>, Al<sup>3+</sup>, K<sup>+</sup>, Na<sup>+</sup>, etc.) move to the liquid medium face after a defined period of bioconversion. As a result of the phosphate solubilization and a high Ca<sup>2+</sup> ion concentration, a process of partial reprecipitation of P as slowly soluble and insoluble phosphates in citric acid together with biomass may possibly occur.</p>
+			<p>
+				<xref ref-type="bibr" rid="B19">Gyaneshwar et al. (2002)</xref> suggested that the organic acid secreted can either directly dissolve the mineral phosphate as a result of anion exchange of PO<sub>4</sub><sup>3-</sup> by the acid anion or canchelate both Fe<sup>3+</sup> and Al<sup>3+</sup> ions associated with phosphate. Complexing of cations is an important mechanism in P solubilization if the organic acid structure favors complexation (<xref ref-type="bibr" rid="B11">Fox et al., 1990</xref>). Organic acids may form soluble complexes with metalions associated with insoluble P and thus P is released (<xref ref-type="bibr" rid="B34">Rashid et al., 2004</xref>; <xref ref-type="bibr" rid="B26">Kim <italic>et al</italic>., 2005</xref>).</p>
+			<p>Some authors indicate that acid production is not the only reason for phosphate release into the medium (<xref ref-type="bibr" rid="B33">Pradhan and Sukla, 2005</xref>; <xref ref-type="bibr" rid="B19">Gyaneshwar et al., 2002</xref>). In certain cases phosphate solubilization is induced by phosphate starvation (<xref ref-type="bibr" rid="B18">Gyaneshwar et al., 1999</xref>). Buffering capacity of the medium reduces the effectiveness of PSB in releasing P from tricalcium phosphates (<xref ref-type="bibr" rid="B43">Stephen and Jisha, 2009</xref>).</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>CONCLUSIONS</title>
+			<p>The production of chemical phosphoric fertilizers is a highly energy-intensive process. On the other hand most of these fertilizers are transformed into insoluble compounds in the soil, unavailable for plants,. Thus, the dependence of fertilizer production on fossil energy, and the prospects of diminishing availability of costly input material for fertilizer production in years to come have obviously brought the subject of mineral phosphate solubilization to the forefront (<xref ref-type="bibr" rid="B25">Khan et al., 2007</xref>). It is well known that the high-grade rock phosphate reserves deplete con tinuously. Hence, the exploration of an alternative phosphate source like low-grade phosphate at low cost should be developed in the near future. These are important reasons to use phosphate-solubilizing organisms in agronomic practice as advocated by several researchers.</p>
+			<p>According to our investigations and the arguments mentioned above, the study with MAJP can be considered to be an alternative for intensification of P-utilization. The investigations indicate that almost complete extraction of P<sub>2</sub>O<sub>5</sub> from Jordan Phosphorite in a form utilizable by plant can be achieved by us ing the phosphorus-solubilizing fungus <italic>Aspergillus niger</italic>. The results obtained can be employed to reduce the fertilizer used if a half dose of P-fertilizer mixed with biofertilizer is introduced into the soil. It is possible to achieve a double effect: the production cost is minimized and the net return maximized.</p>
+			<table-wrap id="t4">
+				<table>
+					<tbody>
+						<tr>
+							<td>C</td>
+							<td>total concentration of soluble P<sub>2</sub>O<sub>5</sub> (g/L)</td>
+						</tr>
+						<tr>
+							<td>C<sub>1</sub></td>
+							<td>concentration of soluble P<sub>2</sub>O<sub>5</sub> in the first filtrate (g/L)</td>
+						</tr>
+						<tr>
+							<td>C<sub>2</sub></td>
+							<td>concentration of soluble P<sub>2</sub>O<sub>5</sub> in the second filtrate (g/L)</td>
+						</tr>
+						<tr>
+							<td>C<sub>3</sub></td>
+							<td>concentration of soluble P<sub>2</sub>O<sub>5</sub> in the biomass (g/L)</td>
+						</tr>
+						<tr>
+							<td>P<sub>2</sub>O<sub>5</sub> b</td>
+							<td>content of P<sub>2</sub>O<sub>5</sub> in the dry biomass (g)</td>
+						</tr>
+						<tr>
+							<td>P<sub>2</sub>O<sub>5</sub> c.s.</td>
+							<td>content of citric-soluble P<sub>2</sub>O<sub>5</sub> (g)</td>
+						</tr>
+						<tr>
+							<td>P<sub>2</sub>O<sub>5</sub> m.m.</td>
+							<td>content of P<sub>2</sub>O<sub>5</sub> in the residue of mineral mass (g)</td>
+						</tr>
+						<tr>
+							<td>P<sub>2</sub>O<sub>5</sub> t.</td>
+							<td>content of total P<sub>2</sub>O<sub>5</sub> (g)</td>
+						</tr>
+						<tr>
+							<td>P<sub>2</sub>O<sub>5</sub> w.s.</td>
+							<td>content of water-soluble P<sub>2</sub>O<sub>5</sub> (g)</td>
+						</tr>
+						<tr>
+							<td>rpm</td>
+							<td>rotational speed (revolutions per minute)</td>
+						</tr>
+						<tr>
+							<td>
+							</td>
+							<td><bold><italic>Greek Letters</italic></bold></td>
+						</tr>
+						<tr>
+							<td>α</td>
+							<td>total extent of P<sub>2</sub>O<sub>5</sub> extraction (% w/w)</td>
+						</tr>
+						<tr>
+							<td>α<sub>1</sub></td>
+							<td>extent of P<sub>2</sub>O<sub>5</sub> extraction in water-soluble forms (% w/w)</td>
+						</tr>
+						<tr>
+							<td>α<sub>2</sub></td>
+							<td>extent of P<sub>2</sub>O5 extraction in citric-soluble forms (% w/w)</td>
+						</tr>
+						<tr>
+							<td>α<sub>3</sub></td>
+							<td>extent of P<sub>2</sub>O<sub>5</sub> extraction in biomass (% w/w)</td>
+						</tr>
+						<tr>
+							<td>
+							</td>
+							<td><bold><italic>Abbreviations</italic></bold></td>
+						</tr>
+						<tr>
+							<td>JP</td>
+							<td>Jordan Phosphorite</td>
+						</tr>
+						<tr>
+							<td>MAJP</td>
+							<td>Mechanically Activated Jordan Phosphorite</td>
+						</tr>
+						<tr>
+							<td>NAJP</td>
+							<td>Non-Activated Jordan Phosphorite</td>
+						</tr>
+						<tr>
+							<td>OLS</td>
+							<td>Ordinary Least Squares</td>
+						</tr>
+						<tr>
+							<td>RP</td>
+							<td>Rock Phosphate</td>
+						</tr>
+						<tr>
+							<td>PSM</td>
+							<td>Phosphate-Solubilizing Microorganisms</td>
+						</tr>
+						<tr>
+							<td>PSB</td>
+							<td>Phosphorus-Solubilizing Bacteria</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+		</sec>
+	</body>
+	<back>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>*</label>
+				<p>To whom correspondence should be addressed</p>
+			</fn>
+		</fn-group>
+		<ref-list>
+			<title>REFERENCES</title>
+			<ref id="B1">
+				<mixed-citation>Akuntokun, A. K., Akande, G. A., Akuntokun, P. O., Popoola, T. O. S., Babalola, O. A., Solubilization of insoluble phosphate by organic acid-producing fungi isolated from Nigerian soil. Inter. J. Soil Sci., 2, 301-307 (2007).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akuntokun</surname>
+							<given-names>A. K.</given-names>
+						</name>
+						<name>
+							<surname>Akande</surname>
+							<given-names>G. A.</given-names>
+						</name>
+						<name>
+							<surname>Akuntokun</surname>
+							<given-names>P. O.</given-names>
+						</name>
+						<name>
+							<surname>Popoola</surname>
+							<given-names>T. O. S.</given-names>
+						</name>
+						<name>
+							<surname>Babalola</surname>
+							<given-names>O. A.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solubilization of insoluble phosphate by organic acid-producing fungi isolated from Nigerian soil</article-title>
+					<source>Inter. J. Soil Sci.</source>
+					<volume>2</volume>
+					<fpage>301</fpage>
+					<lpage>307</lpage>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Arcand, M. M., Schneider, K. D., Plant- and micro bial-based mechanisms to improve the agronomic effectiveness of phosphate rock: A review. Ann. Brazil Sci., 78, 791-807 (2006).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arcand</surname>
+							<given-names>M. M.</given-names>
+						</name>
+						<name>
+							<surname>Schneider</surname>
+							<given-names>K. D.</given-names>
+						</name>
+					</person-group>
+					<article-title>Plant- and micro bial-based mechanisms to improve the agronomic effectiveness of phosphate rock: A review</article-title>
+					<source>Ann. Brazil Sci.</source>
+					<volume>78</volume>
+					<fpage>791</fpage>
+					<lpage>807</lpage>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Barroso, C. B., Pereira, G. T., Nahas, E., Solubilization of CAHPO<sub>4</sub> and AlPO<sub>4</sub> by <italic>Aspergillus niger</italic> in culture media with different carbon and nitrogen sources. Braz. J. Microbiol., 37, 434-438 (2006).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barroso</surname>
+							<given-names>C. B.</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>G. T.</given-names>
+						</name>
+						<name>
+							<surname>Nahas</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solubilization of CAHPO4 and AlPO4 by Aspergillus niger in culture media with different carbon and nitrogen sources</article-title>
+					<source>Braz. J. Microbiol.</source>
+					<volume>37</volume>
+					<fpage>434</fpage>
+					<lpage>438</lpage>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Bernfeld, M. L., Methods in Enzymology. Academic, New York (1959).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernfeld</surname>
+							<given-names>M. L.</given-names>
+						</name>
+					</person-group>
+					<article-title>Methods in Enzymology</article-title>
+					<source>Academic, New York</source>
+					<year>1959</year>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Bojinova, D., Velkova, R., Grancharov, Iv., Zhelev, St., The bioconversion of Tunisian phosphorite using <italic>Aspergillus niger</italic>. Nutr. Cycl. Agroecosys., 47, 227-232 (1997). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bojinova</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Velkova</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Grancharov</surname>
+							<given-names>Iv.</given-names>
+						</name>
+						<name>
+							<surname>Zhelev</surname>
+							<given-names>St.</given-names>
+						</name>
+					</person-group>
+					<article-title>The bioconversion of Tunisian phosphorite using Aspergillus niger</article-title>
+					<source>Nutr. Cycl. Agroecosys.</source>
+					<volume>47</volume>
+					<fpage>227</fpage>
+					<lpage>232</lpage>
+					<year>1997</year>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bojinova, D., Teodosieva, R., Nedialkova, K., Solu bilization of mechanical activated Tunisian phos phorite with soil bacteria. J. Univ. Chem. Technol. Metall., 43, 383-387 (2008a).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bojinova</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Teodosieva</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Nedialkova</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solu bilization of mechanical activated Tunisian phos phorite with soil bacteria</article-title>
+					<source>J. Univ. Chem. Technol. Metall.</source>
+					<volume>43</volume>
+					<fpage>383</fpage>
+					<lpage>387</lpage>
+					<year>2008a</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Bojinova, D., Velkova, R., Ivanova, R., Solubilization of Morocco phosphorite by <italic>Aspergillus niger</italic>. Bioresource Technol., 99, 7348-7353 (2008b).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bojinova</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Velkova</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ivanova</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solubilization of Morocco phosphorite by Aspergillus niger</article-title>
+					<source>Bioresource Technol.</source>
+					<volume>99</volume>
+					<fpage>7348</fpage>
+					<lpage>7353</lpage>
+					<year>2008b</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Deepa, V., Prasanna, A., Murthy, B., Sridhar, R., Ef ficient phosphate solubilization by fungal strains isolated from rice-rhizosphere soils for the phosphorus release. Res. J. Agric. Biol. Sci., 6, 487-492 (2010).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Deepa</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Prasanna</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Murthy</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Sridhar</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Ef ficient phosphate solubilization by fungal strains isolated from rice-rhizosphere soils for the phosphorus release</article-title>
+					<source>Res. J. Agric. Biol. Sci.</source>
+					<volume>6</volume>
+					<fpage>487</fpage>
+					<lpage>492</lpage>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Emelyanova, I. Z., Chemical technological control of hydrolyzing process. Wood Industry, Moscow (1976).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Emelyanova</surname>
+							<given-names>I. Z.</given-names>
+						</name>
+					</person-group>
+					<source>Chemical technological control of hydrolyzing process</source>
+					<publisher-name>Wood Industry</publisher-name>
+					<publisher-loc>Moscow</publisher-loc>
+					<year>1976</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fankem, H., Nwaga, D., Deubel, A., Dieng, L., Mer bach, W., Etoa, F. X., Occurance and functioning of phosphate solubilizing microorganisms from oil palm tree (<italic>Elaeis guineensis</italic>) rhizosphere in Cameroon. African J. Biotechnol., 5, 2450-2460 (2006).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fankem</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Nwaga</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Deubel</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Dieng</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Mer bach</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Etoa</surname>
+							<given-names>F. X.</given-names>
+						</name>
+					</person-group>
+					<article-title>Occurance and functioning of phosphate solubilizing microorganisms from oil palm tree (Elaeis guineensis) rhizosphere in Cameroon</article-title>
+					<source>African J. Biotechnol.</source>
+					<volume>5</volume>
+					<fpage>2450</fpage>
+					<lpage>2460</lpage>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Fox, R., Comerford, N. B., Mcfee, W. W., Phospho rus and aluminium release from a spodic horizon mediated by organic acids. Soil Sci. Soc. Am. J., 54, 1763-1767 (1990).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fox</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Comerford</surname>
+							<given-names>N. B.</given-names>
+						</name>
+						<name>
+							<surname>Mcfee</surname>
+							<given-names>W. W.</given-names>
+						</name>
+					</person-group>
+					<article-title>Phospho rus and aluminium release from a spodic horizon mediated by organic acids</article-title>
+					<source>Soil Sci. Soc. Am. J.</source>
+					<volume>54</volume>
+					<fpage>1763</fpage>
+					<lpage>1767</lpage>
+					<year>1990</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gadd, G. M., Interaction of fungi with toxic metals. New Phytol., 124, 25-60 (1993). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gadd</surname>
+							<given-names>G. M.</given-names>
+						</name>
+					</person-group>
+					<article-title>Interaction of fungi with toxic metals</article-title>
+					<source>New Phytol.</source>
+					<volume>124</volume>
+					<fpage>25</fpage>
+					<lpage>60</lpage>
+					<year>1993</year>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Ghosh, R., Banik, A. K., Optimization of different physical parameters for obtaining of phosphate by <italic>Aspergillus niger</italic> from Indian rock phosphate. Indian J. Exp. Biol., 36, 688-692 (1998). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ghosh</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Banik</surname>
+							<given-names>A. K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Optimization of different physical parameters for obtaining of phosphate by Aspergillus niger from Indian rock phosphate</article-title>
+					<source>Indian J. Exp. Biol.</source>
+					<volume>36</volume>
+					<fpage>688</fpage>
+					<lpage>692</lpage>
+					<year>1998</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Gerretsen, F. C., The influence of microorganisms on the phosphate intake by the plant. Plant Soil, 1, 51-81 (1948).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gerretsen</surname>
+							<given-names>F. C.</given-names>
+						</name>
+					</person-group>
+					<article-title>The influence of microorganisms on the phosphate intake by the plant</article-title>
+					<source>Plant Soil</source>
+					<volume>1</volume>
+					<fpage>51</fpage>
+					<lpage>81</lpage>
+					<year>1948</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Goenadi, D. H., Siswanto, Sugiario, Y. , Bioactivation of poorly soluble phosphate rocks with a phosphorus solubilizing fungus. Soil Sci. Am. J., 64, 927-932 (2000).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goenadi</surname>
+							<given-names>D. H.</given-names>
+						</name>
+						<name>
+							<surname>Siswanto</surname>
+						</name>
+						<name>
+							<surname>Sugiario</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>
+					<article-title>Bioactivation of poorly soluble phosphate rocks with a phos phorus solubilizing fungus</article-title>
+					<source>Soil Sci. Am. J.</source>
+					<volume>64</volume>
+					<fpage>927</fpage>
+					<lpage>932</lpage>
+					<year>2000</year>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Goldstein, A. H., Phosphate in Microorganisms: Cel lular and Molecular Biology. ASM Press, Wash ington (1994).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goldstein</surname>
+							<given-names>A. H.</given-names>
+						</name>
+					</person-group>
+					<source>Phosphate in Microorganisms: Cel lular and Molecular Biology</source>
+					<publisher-name>ASM Press</publisher-name>
+					<publisher-loc>Wash ington</publisher-loc>
+					<year>1994</year>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Goldstein, A. H., Bioprocessing of rock phosphate ore: essential technical concideration for the de velopment of a successful commercial technology. In: Proc. 4th Int. Fert. Assoc. Tech. Conf., IFA, Paris, 1-21 (2000).</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goldstein</surname>
+							<given-names>A. H.</given-names>
+						</name>
+					</person-group>
+					<source>Bioprocessing of rock phosphate ore: essential technical concideration for the de velopment of a successful commercial technology</source>
+					<conf-name>Proc. 4th Int. Fert. Assoc. Tech. Conf.</conf-name>
+					<publisher-name>IFA</publisher-name>
+					<publisher-loc>Paris</publisher-loc>
+					<fpage>1</fpage>
+					<lpage>21</lpage>
+					<year>2000</year>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Gyaneswar, P., Parekh, L. J., Archana, G., Poole, P. S., Collins, M. D., Hutson, R. A., Naresh, K. G., Involment of a phosphate starvation inducible glu cose dehydrogenase in soil phosphate solubilization by <italic>Enterobacter asburiae</italic>. FEMS Microbiol. Lett., 171, 223-229 (1999).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gyaneswar</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Parekh</surname>
+							<given-names>L. J.</given-names>
+						</name>
+						<name>
+							<surname>Archana</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Poole</surname>
+							<given-names>P. S.</given-names>
+						</name>
+						<name>
+							<surname>Collins</surname>
+							<given-names>M. D.</given-names>
+						</name>
+						<name>
+							<surname>Hutson</surname>
+							<given-names>R. A.</given-names>
+						</name>
+						<name>
+							<surname>Naresh</surname>
+							<given-names>K. G.</given-names>
+						</name>
+					</person-group>
+					<article-title>Involment of a phosphate starvation inducible glu cose dehydrogenase in soil phosphate solubilization by Enterobacter asburiae</article-title>
+					<source>FEMS Microbiol. Lett.</source>
+					<volume>171</volume>
+					<fpage>223</fpage>
+					<lpage>229</lpage>
+					<year>1999</year>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Gyaneswar, P., Kumar, G. N., Parek, L. J., Poole, P. S., Role of the soil microorganisms in improving P nutrition of plants. Plant Soil, 245, 83-93 (2002).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gyaneswar</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>G. N.</given-names>
+						</name>
+						<name>
+							<surname>Parek</surname>
+							<given-names>L. J.</given-names>
+						</name>
+						<name>
+							<surname>Poole</surname>
+							<given-names>P. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Role of the soil microorganisms in improving P nutrition of plants</article-title>
+					<source>Plant Soil</source>
+					<volume>245</volume>
+					<fpage>83</fpage>
+					<lpage>93</lpage>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Ibrahim, S. S., El-Midany, A. A., Boulos, T. R., Ef fect of intensive mechanical stresss on phosphate chemistry as a way to increase its solubility for fer tilizer application. Physicochem. Probl. Miner. Process, 44, 79-92 (2010).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ibrahim</surname>
+							<given-names>S. S.</given-names>
+						</name>
+						<name>
+							<surname>El-Midany</surname>
+							<given-names>A. A.</given-names>
+						</name>
+						<name>
+							<surname>Boulos</surname>
+							<given-names>T. R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Ef fect of intensive mechanical stresss on phosphate chemistry as a way to increase its solubility for fer tilizer application</article-title>
+					<source>Physicochem. Probl. Miner. Process</source>
+					<volume>44</volume>
+					<fpage>79</fpage>
+					<lpage>92</lpage>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Ivanova, R., Bojinova, D., Nedialkova, K., Rock phosphate solubilization by soil bacteria. J. Univ. Chem. Technol. Metall., 41, 297-302 (2006).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ivanova</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Bojinova</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Nedialkova</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Rock phosphate solubilization by soil bacteria</article-title>
+					<source>J. Univ. Chem. Technol. Metall.</source>
+					<volume>41</volume>
+					<fpage>297</fpage>
+					<lpage>302</lpage>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Jackson, M. L., Soil Chemical Analysis. Prentice Hall of India Pvt. Ltd., New Delhi (1967).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jackson</surname>
+							<given-names>M. L.</given-names>
+						</name>
+					</person-group>
+					<source>Soil Chemical Analysis</source>
+					<publisher-name>Prentice Hall of India Pvt. Ltd.</publisher-name>
+					<publisher-loc>New Delhi</publisher-loc>
+					<year>1967</year>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Kang, C., Ha, G., Lee, G., Maheshwari, K., Solu bilization of insoluble inorganic phosphates by soil-inhabiting fungus <italic>Fomitopsis</italic> sp. PS 102. Curr. Sci., 82, 439-442 (2002). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kang</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ha</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Maheshwari</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solu bilization of insoluble inorganic phosphates by soil-inhabiting fungus Fomitopsis sp. PS 102</article-title>
+					<source>Curr. Sci.</source>
+					<volume>82</volume>
+					<fpage>439</fpage>
+					<lpage>442</lpage>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Kang, S. C., Pandey, P., Khillon, R., Maheshwari, D. K., Process of rock phosphate solubilization by <italic>Aspergillus</italic> sp. PS104 in soil amended medium. J. Environ. Biol., 29, 743-746 (2008).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kang</surname>
+							<given-names>S. C.</given-names>
+						</name>
+						<name>
+							<surname>Pandey</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Khillon</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Maheshwari</surname>
+							<given-names>D. K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Process of rock phosphate solubilization by Aspergillus sp. PS104 in soil amended medium</article-title>
+					<source>J. Environ. Biol.</source>
+					<volume>29</volume>
+					<fpage>743</fpage>
+					<lpage>746</lpage>
+					<year>2008</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Khan, M., Zaidi, A., Wani, P., Role of phosphate-solubilizing microorganisms in sustainable agri culture - A review. Agron. Sustain. Dev., 27, 29-43 (2007). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Khan</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zaidi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Wani</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<article-title>Role of phosphate-solubilizing microorganisms in sustainable agri culture - A review</article-title>
+					<source>Agron. Sustain. Dev.</source>
+					<volume>27</volume>
+					<fpage>29</fpage>
+					<lpage>43</lpage>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Kim, Y. H., Bal, B., Ghoung, Y. K., Optimization of biological phosphorus removed from contaminated sediments with phosphate-solubilizing microorganisms. J. Biosci. Bioeng., 99, 23-29 (2005).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>Y. H.</given-names>
+						</name>
+						<name>
+							<surname>Bal</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Ghoung</surname>
+							<given-names>Y. K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Optimization of biological phosphorus removed from contaminated sediments with phosphate-solubilizing microorganisms</article-title>
+					<source>J. Biosci. Bioeng.</source>
+					<volume>99</volume>
+					<fpage>23</fpage>
+					<lpage>29</lpage>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Lindsay, W. L., Chemical Equilibrium in Soil. John Wiley and Sons, New York (1979). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lindsay</surname>
+							<given-names>W. L.</given-names>
+						</name>
+					</person-group>
+					<source>Chemical Equilibrium in Soil</source>
+					<publisher-name>John Wiley and Sons</publisher-name>
+					<publisher-loc>New York</publisher-loc>
+					<year>1979</year>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Mendes, G., Vassilev, N., Bonduki, V., Silva, I., Ri beiro, J., Costa, M., Inhibition of <italic>Aspergillus niger</italic> phosphate solubilization by fluoride released from rock phosphate. App. Environ. Microbiol., 79, 4906-4913 (2013).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mendes</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Vassilev</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Bonduki</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Ri beiro</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Costa</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<article-title>Inhibition of Aspergillus niger phosphate solubilization by fluoride released from rock phosphate</article-title>
+					<source>App. Environ. Microbiol.</source>
+					<volume>79</volume>
+					<fpage>4906</fpage>
+					<lpage>4913</lpage>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Nahas, E., Banzatto, D. A., Assis, L. C., Fluorapatite solubilization by <italic>Aspergillus niger</italic> in vinasse me dium. Soil Biol. Biochem., 22, 1097-1101 (1990).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nahas</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Banzatto</surname>
+							<given-names>D. A.</given-names>
+						</name>
+						<name>
+							<surname>Assis</surname>
+							<given-names>L. C.</given-names>
+						</name>
+					</person-group>
+					<article-title>Fluorapatite solubilization by Aspergillus niger in vinasse me dium</article-title>
+					<source>Soil Biol. Biochem.</source>
+					<volume>22</volume>
+					<fpage>1097</fpage>
+					<lpage>1101</lpage>
+					<year>1990</year>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Nahas, E. M., Centurion, J. F., Assis, L. C., Microrga nismos solubilizadores de fosfato e produtores de fosfatases de vários solos. Rev. Bras. Ciênc. Solo, 18(1), 43-48 (1994). (In Portuguese).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nahas</surname>
+							<given-names>E. M.</given-names>
+						</name>
+						<name>
+							<surname>Centurion</surname>
+							<given-names>J. F.</given-names>
+						</name>
+						<name>
+							<surname>Assis</surname>
+							<given-names>L. C.</given-names>
+						</name>
+					</person-group>
+					<article-title>Microrga nismos solubilizadores de fosfato e produtores de fosfatases de vários solos</article-title>
+					<source>Rev. Bras. Ciênc. Solo</source>
+					<volume>18</volume>
+					<issue>1</issue>
+					<fpage>43</fpage>
+					<lpage>48</lpage>
+					<year>1994</year>
+					<comment>(In Portuguese)</comment>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Nahas, E., Factors determining rock phosphate solu bilization by microorganisms isolated from soil. World J. Microbiol. Biotechnol., 12, 567-572 (1996).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nahas</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<article-title>Factors determining rock phosphate solu bilization by microorganisms isolated from soil</article-title>
+					<source>World J. Microbiol. Biotechnol.</source>
+					<volume>12</volume>
+					<fpage>567</fpage>
+					<lpage>572</lpage>
+					<year>1996</year>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Omar S. A., The role of rock phosphate solubilizing fungi and vesicular arbuscular mycorrhiza (VAM) in growth of wheat plants fertilized with rock phos phate. World J. Microb. Biot., 14, 211-219 (1998).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Omar</surname>
+							<given-names>S. A.</given-names>
+						</name>
+					</person-group>
+					<article-title>The role of rock phosphate solubilizing fungi and vesicular arbuscular mycorrhiza (VAM) in growth of wheat plants fertilized with rock phos phate</article-title>
+					<source>World J. Microb. Biot.</source>
+					<volume>14</volume>
+					<fpage>211</fpage>
+					<lpage>219</lpage>
+					<year>1998</year>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Pradhan, N., Sukla, L. B., Solubilization of inorganic phosphates by fungi isolated from agricultural soil. African J. Biotechnol., 5, 850-854 (2005).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pradhan</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Sukla</surname>
+							<given-names>L. B.</given-names>
+						</name>
+					</person-group>
+					<article-title>Solubilization of inorganic phosphates by fungi isolated from agricultural soil</article-title>
+					<source>African J. Biotechnol.</source>
+					<volume>5</volume>
+					<fpage>850</fpage>
+					<lpage>854</lpage>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Rashid, M., Khalil, S., Ayub, N., Alam, S., Latif, F., Organic acids production and phosphate solu bilization by phosphate solubilizing microorgan isms (PSM) under in vitro conditions. Pak. J. Biol. Sci., 7, 187-196 (2004).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rashid</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Khalil</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ayub</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Alam</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Latif</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<article-title>Organic acids production and phosphate solu bilization by phosphate solubilizing microorgan isms (PSM) under in vitro conditions</article-title>
+					<source>Pak. J. Biol. Sci.</source>
+					<volume>7</volume>
+					<fpage>187</fpage>
+					<lpage>196</lpage>
+					<year>2004</year>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Reddy, M., Kumar, S., Babita, K., Reddy, M. S., Bio solubilization of poorly soluble rock phosphates by <italic>Aspergillus tubingensis</italic> and <italic>Aspergillus niger</italic> Bioresource Technol., 84, 187-189 (2002). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reddy</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Babita</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Reddy</surname>
+							<given-names>M. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Bio solubilization of poorly soluble rock phosphates by <italic>Aspergillus tubingensis</italic> and <italic>Aspergillus niger</italic></article-title>
+					<source>Bioresource Technol.</source>
+					<volume>84</volume>
+					<fpage>187</fpage>
+					<lpage>189</lpage>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Rfaki, A., Nassiri, L., Ibijbijen, J., Genetic diversity and phosphate solubilizing ability of <italic>Triticum aes tivum</italic> rhizobacteria isolated from Meknes region, Morocco. Afr. J. Microbiol. Res., 8, 1931-1938 (2014). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rfaki</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nassiri</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Ibijbijen</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<article-title>Genetic diversity and phosphate solubilizing ability of Triticum aes tivum rhizobacteria isolated from Meknes region, Morocco</article-title>
+					<source>Afr. J. Microbiol. Res.</source>
+					<volume>8</volume>
+					<fpage>1931</fpage>
+					<lpage>1938</lpage>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Richardson, A. E., Prospects for using soil micro organisms to improve the acquisition of phospho rus by plants. Aust. J. Plant Physiol., 28, 897-906 (2001).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Richardson</surname>
+							<given-names>A. E.</given-names>
+						</name>
+					</person-group>
+					<article-title>Prospects for using soil micro organisms to improve the acquisition of phospho rus by plants</article-title>
+					<source>Aust. J. Plant Physiol.</source>
+					<volume>28</volume>
+					<fpage>897</fpage>
+					<lpage>906</lpage>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Richardson, A. E., Simpson, R. J., Soil microorgan isms mediating phosphorus availability. Plant Physiol., 156, 989-996 (2011).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Richardson</surname>
+							<given-names>A. E.</given-names>
+						</name>
+						<name>
+							<surname>Simpson</surname>
+							<given-names>R. J.</given-names>
+						</name>
+					</person-group>
+					<article-title>Soil microorgan isms mediating phosphorus availability</article-title>
+					<source>Plant Physiol.</source>
+					<volume>156</volume>
+					<fpage>989</fpage>
+					<lpage>996</lpage>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Rodriguez, H., Fraga, R., Phosphate solubilizing bacteria and their role in plant growth promotion. Biotech. Adv., 17, 319-339 (1999).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodriguez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Fraga</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Phosphate solubilizing bacteria and their role in plant growth promotion</article-title>
+					<source>Biotech. Adv.</source>
+					<volume>17</volume>
+					<fpage>319</fpage>
+					<lpage>339</lpage>
+					<year>1999</year>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Sanjotha, P., Mahantesh, P., Patil, C. S., Isolation and screening of efficiency of phosphate solubilizing microbes. Inter. J. Microbiol. Res., 3, 56-58 (2011).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sanjotha</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Mahantesh</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Patil</surname>
+							<given-names>C. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Isolation and screening of efficiency of phosphate solubilizing microbes</article-title>
+					<source>Inter. J. Microbiol. Res.</source>
+					<volume>3</volume>
+					<fpage>56</fpage>
+					<lpage>58</lpage>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Seshadri, S., Ignacimuthu, S., Lakshminarasimhan, C., Effect of nitrogen and carbon sources on the in organic phosphate solubilization by different <italic>Aspergillus niger</italic> strains. Chem. Eng. Commun., 191, 1043-1052 (2004).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Seshadri</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ignacimuthu</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Lakshminarasimhan</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<article-title>Effect of nitrogen and carbon sources on the in organic phosphate solubilization by different Aspergillus niger strains</article-title>
+					<source>Chem. Eng. Commun.</source>
+					<volume>191</volume>
+					<fpage>1043</fpage>
+					<lpage>1052</lpage>
+					<year>2004</year>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Sharma, A., Rawat, U. S., Yadav, B. K., Influence of phosphorus levels and phosphorus solubilizing fungi on yield and nutrient uptake by wheat under sub-humid region of Rajasthan, India. ISRN Agron omy, Article ID 234656, doi: 10.5402/2012/234656 (2012).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sharma</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Rawat</surname>
+							<given-names>U. S.</given-names>
+						</name>
+						<name>
+							<surname>Yadav</surname>
+							<given-names>B. K.</given-names>
+						</name>
+					</person-group>
+					<source>Influence of phosphorus levels and phosphorus solubilizing fungi on yield and nutrient uptake by wheat under sub-humid region of Rajasthan, India</source>
+					<publisher-name>ISRN Agron omy</publisher-name>
+					<pub-id pub-id-type="art-access-id">234656</pub-id>
+					<pub-id pub-id-type="doi">10.5402/2012/234656</pub-id>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Stephen, J., Jisha, M. S., Buffering reduces phos phate solubilizing ability of selected strains of bacteria. World J. Agric. Sci., 5, 135-137 (2009).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stephen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jisha</surname>
+							<given-names>M. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Buffering reduces phos phate solubilizing ability of selected strains of bacteria</article-title>
+					<source>World J. Agric. Sci.</source>
+					<volume>5</volume>
+					<fpage>135</fpage>
+					<lpage>137</lpage>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Tallapragada, P., Seshachala, U., Phosphate-solu bilizing microbes and their occurrence in the rhi zospheres of Piper betel in Karnataka, India. Turk. J. Biol., 36, 25-35 (2012).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tallapragada</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Seshachala</surname>
+							<given-names>U.</given-names>
+						</name>
+					</person-group>
+					<article-title>Phosphate-solu bilizing microbes and their occurrence in the rhi zospheres of Piper betel in Karnataka, India</article-title>
+					<source>Turk. J. Biol.</source>
+					<volume>36</volume>
+					<fpage>25</fpage>
+					<lpage>35</lpage>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Vassilev, N., Baca, M. T., Vassileva, M., Franco, I., Azcon, R., Rock phosphate solubilization by <italic>Asper gillus niger</italic> grpwn on sugar-beet waste medium. Appl. Microbiol. Biotechnol., 44, 546-549 (1995).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vassilev</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Baca</surname>
+							<given-names>M. T.</given-names>
+						</name>
+						<name>
+							<surname>Vassileva</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Franco</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Azcon</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Rock phosphate solubilization by Asper gillus niger grpwn on sugar-beet waste medium</article-title>
+					<source>Appl. Microbiol. Biotechnol.</source>
+					<volume>44</volume>
+					<fpage>546</fpage>
+					<lpage>549</lpage>
+					<year>1995</year>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Vassilev, N., Vassileva, M., Fenice, M., Federici, F., Immobilized cell technology applied in solubilization of insoluble inorganic rock phosphates and P plant acquisition. Bioresource Technol., 79, 263-271 (2001).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vassilev</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Vassileva</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Fenice</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Federici</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<article-title>Immobilized cell technology applied in solubilization of insoluble inorganic rock phosphates and P plant acquisition</article-title>
+					<source>Bioresource Technol.</source>
+					<volume>79</volume>
+					<fpage>263</fpage>
+					<lpage>271</lpage>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Vassilev, N., Martos, E., Mendes, G., Martos, V., Vassileva, M., Biochar of animal origin: A sus tainable solution to the global problem of high-grade rock phosphate scarcity. J. Sci. Food Agric., 93, 1799-1804 (2013).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vassilev</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Martos</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Mendes</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Martos</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Vassileva</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<article-title>Biochar of animal origin: A sus tainable solution to the global problem of high-grade rock phosphate scarcity</article-title>
+					<source>J. Sci. Food Agric.</source>
+					<volume>93</volume>
+					<fpage>1799</fpage>
+					<lpage>1804</lpage>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Venkateswarlu, B., Rao, A. V., Raina, P., Almad, N., Evaluation of phosphorus solubilization by micro organisms isolated from and soil. J. Ind. Soc. Soil Sci., 32, 273-277 (1984).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Venkateswarlu</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Rao</surname>
+							<given-names>A. V.</given-names>
+						</name>
+						<name>
+							<surname>Raina</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Almad</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<article-title>Evaluation of phosphorus solubilization by micro organisms isolated from and soil</article-title>
+					<source>J. Ind. Soc. Soil Sci.</source>
+					<volume>32</volume>
+					<fpage>273</fpage>
+					<lpage>277</lpage>
+					<year>1984</year>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Whitelaw, M. A., Harden, T. J., Helyar, K. R., Phos phate solubilization in solution culture by the soil fungus <italic>Penicillium radicum</italic>. Soil Biol. Biochem., 32, 655-665 (1999).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Whitelaw</surname>
+							<given-names>M. A.</given-names>
+						</name>
+						<name>
+							<surname>Harden</surname>
+							<given-names>T. J.</given-names>
+						</name>
+						<name>
+							<surname>Helyar</surname>
+							<given-names>K. R.</given-names>
+						</name>
+					</person-group>
+					<article-title>Phos phate solubilization in solution culture by the soil fungus Penicillium radicum</article-title>
+					<source>Soil Biol. Biochem.</source>
+					<volume>32</volume>
+					<fpage>655</fpage>
+					<lpage>665</lpage>
+					<year>1999</year>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Yadav, J., Verma, J. P., Yadav, S. K., Tiwari, K. N., Effect of salt concentration and pH on soil in habiting fungus <italic>Penicillium citrinum Thom.</italic> for solubilization of tricalcium phosphate. Microbiol. J., 1, 25-32 (2011).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yadav</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Verma</surname>
+							<given-names>J. P.</given-names>
+						</name>
+						<name>
+							<surname>Yadav</surname>
+							<given-names>S. K.</given-names>
+						</name>
+						<name>
+							<surname>Tiwari</surname>
+							<given-names>K. N.</given-names>
+						</name>
+					</person-group>
+					<article-title>Effect of salt concentration and pH on soil in habiting fungus Penicillium citrinum Thom. for solubilization of tricalcium phosphate</article-title>
+					<source>Microbiol. J.</source>
+					<volume>1</volume>
+					<fpage>25</fpage>
+					<lpage>32</lpage>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
