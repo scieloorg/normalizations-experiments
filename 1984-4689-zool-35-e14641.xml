@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article article-type="rapid-communication" dtd-version="1.1" specific-use="sps-1.8" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">zool</journal-id>
+			<journal-title-group>
+				<journal-title>Zoologia (Curitiba)</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Zoologia (Curitiba)</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1984-4670</issn>
+			<issn pub-type="epub">1984-4689</issn>
+			<publisher>
+				<publisher-name>Sociedade Brasileira de Zoologia</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="other">00501</article-id>
+			<article-id pub-id-type="doi">10.3897/zoologia.35.e14641</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>SHORT COMMUNICATION</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Thermal tolerance of the zoea I stage of four Neotropical crab species (Crustacea: Decapoda)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-0711-3588</contrib-id>
+					<name>
+						<surname>Rebolledo</surname>
+						<given-names>Adriana P.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-5103-4460</contrib-id>
+					<name>
+						<surname>Collin</surname>
+						<given-names>Rachel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Smithsonian Tropical Research Institute, Box 0843-03092, Balboa, Republic of Panama.</institution>
+				<institution content-type="normalized">Smithsonian Tropical Research Institute</institution>
+				<institution content-type="orgname">Smithsonian Tropical Research Institute</institution>
+				<addr-line>
+					<city>Balboa</city>
+				</addr-line>
+				<country country="PA">Panama</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">School of Biological Sciences, Monash University, Melbourne Vic. 3800, Australia.</institution>
+				<institution content-type="normalized">Monash University</institution>
+				<institution content-type="orgdiv1">School of Biological Sciences</institution>
+				<institution content-type="orgname">Monash University</institution>
+				<addr-line>
+					<city>Melbourne</city>
+				</addr-line>
+				<country country="AU">Australia</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1"><sup>*</sup>Corresponding author: Adriana P. Rebolledo (<email>adriprn@gmail.com</email>)</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Author Contributions: </label>
+					<p>APR and RC both contributed to designing the experiments, analyzing the data and writing the paper; APR conducted the experiments.</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<label>Competing Interests:</label>
+					<p> The authors have declared that no competing interests exist.</p>
+				</fn>
+				<fn fn-type="edited-by" id="fn3">
+					<label>Editorial responsibility:</label>
+					<p> Carolina Arruda Freire</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>26</day>
+				<month>04</month>
+				<year>2018</year>
+			</pub-date>
+			<volume>35</volume>
+			<elocation-id>e14641</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>22</day>
+					<month>06</month>
+					<year>2017</year>
+				</date>
+				<date date-type="rev-recd">
+					<day>09</day>
+					<month>10</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>10</month>
+					<year>2017</year>
+				</date>
+				<date date-type="pub">
+					<day>22</day>
+					<month>03</month>
+					<year>2018</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>ABSTRACT</title>
+				<p>Although larval stages are often considered particularly vulnerable to stressors, for many marine invertebrates studies of thermal tolerance have focused on adults. Here we determined the upper thermal limit (LT<sub>50</sub>) of the zoea I of four Caribbean crab species (<italic>Macrocoeloma trispinosum</italic>, <italic>Aratus pisonii</italic>, <italic>Armases ricordi</italic>, and <italic>Minuca rapax</italic>) and compared their thermal tolerance over time and among species. The zoea from the subtidal species <italic>M. trispinosum</italic> and tree climbing mangrove species <italic>A. pisonii</italic> had a lower thermal tolerance, 35 and 38.5 °C respectively, than did the semiterrestrial <italic>A. ricordi</italic> and <italic>M. rapax</italic>. In all four species tested, the estimates of thermal tolerance depend on the duration of exposure to elevated temperatures. Longer exposures to thermal stress produce lower estimates of LT<sub>50,</sub> which decreased by ~1 °C from a two- to a six-hour exposure. Crab embryos develop on the abdomen of the mother until the larvae are ready to hatch. Therefore, the thermal tolerances of the embryos which need to coincide with the environmental conditions experienced by the adult stage, may carry over into the early zoea stage. Our results suggest that semiterrestrial species, in which embryos may need to withstand higher temperatures than embryos of subtidal species also produce larvae with higher thermal tolerances. Over the short term, the larvae of these tropical crab species can withstand significantly higher temperatures than those experienced in their marine habitat. Longer term rearing studies are necessary to determine the temperature at which chronic exposure has a negative impact on embryonic and larval survival.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>KEY WORDS:</title>
+				<kwd>Caribbean</kwd>
+				<kwd>larvae</kwd>
+				<kwd>survival</kwd>
+				<kwd>temperature</kwd>
+				<kwd>exposure time</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="3"/>
+				<equation-count count="0"/>
+				<ref-count count="33"/>
+				<page-count count="0"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>Environmental temperature influences the physiology and ecology of marine organisms across all the stages of their complex life cycles (<xref ref-type="bibr" rid="B27">Storch et al. 2009</xref>, <xref ref-type="bibr" rid="B28">2011</xref>, <xref ref-type="bibr" rid="B11">Hammond and Hofmann 2010</xref>, <xref ref-type="bibr" rid="B3">Byrne 2011</xref>). It is well-known that temperatures slightly above the optimal can result in negative impacts, including increased ventilation rate and cardiac activity, and can provoke insufficient O<sub>2</sub> supply (<xref ref-type="bibr" rid="B8">Frederich and Pörtner 2000</xref>, <xref ref-type="bibr" rid="B12">Harley et al. 2006</xref>, <xref ref-type="bibr" rid="B18">Metzger et al. 2007</xref>, <xref ref-type="bibr" rid="B20">Ravaux et al. 2016</xref>). In many cases, this result in reduced performance and survival at temperatures only slightly above those commonly experienced in the field (e.g., <xref ref-type="bibr" rid="B4">Collin and Chan 2016</xref>; <xref ref-type="bibr" rid="B6">Collin et al. 2018</xref>). Available information on tropical marine species suggest that although they are generally more tolerant of heat than are temperate species, adults may live closer to their upper thermal limits, reducing their safety factors and making them especially susceptible to increases environmental temperatures (<xref ref-type="bibr" rid="B25">Somero 2010</xref>, <xref ref-type="bibr" rid="B19">Nguyen et al. 2011</xref>, <xref ref-type="bibr" rid="B16">Madeira et al. 2012</xref>). For crustaceans, there is little information on the temperature tolerance and safety factors of tropical species, since most studies have focused on temperate species (e.g. <xref ref-type="bibr" rid="B1">Anger et al. 2003</xref>, <xref ref-type="bibr" rid="B27">Storch et al. 2009</xref>, <xref ref-type="bibr" rid="B28">2011</xref>, <xref ref-type="bibr" rid="B31">Weiss et al. 2009</xref>, <xref ref-type="bibr" rid="B7">Fowler et al. 2010</xref>, <xref ref-type="bibr" rid="B23">Schmalenbach and Franke 2010</xref>, <xref ref-type="bibr" rid="B22">Schiffer et al. 2014</xref>, <xref ref-type="bibr" rid="B29">Tepolt and Somero 2014</xref>), and few have focused on determining their upper thermal limit (e.g. <xref ref-type="bibr" rid="B20">Ravaux et al. 2016</xref>).</p>
+		<p>For marine invertebrates most studies of temperature tolerance have focused on adult stages (<xref ref-type="bibr" rid="B26">Stillman and Somero 2000</xref>, <xref ref-type="bibr" rid="B10">Gilman 2006</xref>). However, early life stages may be particularly vulnerable to environmental stressors such as temperature (<xref ref-type="bibr" rid="B1">Anger et al. 2003</xref>, <xref ref-type="bibr" rid="B27">Storch et al. 2009</xref>, <xref ref-type="bibr" rid="B11">Hammond and Hofmann 2010</xref>, <xref ref-type="bibr" rid="B33">Zippay and Hofmann 2010</xref>). Studies of larval thermal tolerance can provide vital information to promote understanding of the potential impacts of thermal stress on survival, dispersal, and recruitment of marine species (<xref ref-type="bibr" rid="B10">Gilman 2006</xref>, <xref ref-type="bibr" rid="B21">Sanford et al. 2006</xref>, <xref ref-type="bibr" rid="B27">Storch et al. 2009</xref>).</p>
+		<p>Considering the limited knowledge of the larval thermal tolerance of tropical crustaceans species, here we determined the upper thermal limit (UTL) of the zoea I stage of four Neotropical crab species, as the first step to determine their vulnerability to environmental warming. Ovigerous females carrying eggs close to hatching as evidenced by embryos with well-developed clearly visible eyes were collected by hand from around the Smithsonian Tropical Research Institute’s Bocas del Toro Research Station (09°20’N, 82°14’W), on the Caribbean coast of Panama. Female decorator crabs, <italic>Macrocoeloma trispinosum</italic> (Latreille, 1825), which were covered with the red-orange sponge <italic>Lissodendoryx colombiensis</italic> (Zea &amp; van Soest, 1986), were collected underwater on <italic>Rhizophora mangle</italic> (Linnaeus) roots. The sesarmid crab <italic>Aratus pisonii</italic> (H. Milne-Edwards, 1853) was found on branches and roots of <italic>R. mangle</italic>, while female <italic>Armases ricordi</italic> (H. Milne-Edwards, 1853) were found among rocks and leaf litter. Female fiddler crabs <italic>Minuca rapax</italic> (Smith, 1870) were collected between rocks and on sand flats near the mangroves. Ovigerous females (see <xref ref-type="table" rid="t1">Table 1</xref> for number of females) were placed individually in plastic containers with 1 liter of seawater with a salinity of 36 ‰, at an ambient temperature of approximately 28-30 °C. Containers were checked twice per day for hatching larvae. Thermal tolerance assays were conducted on mornings that larvae (zoea I) hatched.</p>
+		<p>
+			<table-wrap id="t1">
+				<label>Table 1</label>
+				<caption>
+					<title>The overall LT<sub>50</sub> temperature at which 50 % of the zoea I died for the four crab species studied. Mean ± Standard deviation; N = number of females.</title>
+				</caption>
+				<table>
+					<colgroup>
+						<col/>
+						<col span="6"/>
+					</colgroup>
+					<thead>
+						<tr>
+							<th align="center" rowspan="2">Species</th>
+							<th align="center" colspan="6">LT<sub>50</sub>: Temperature (°C)</th>
+						</tr>
+						<tr>
+							<th align="center">2 h</th>
+							<th align="center">N</th>
+							<th align="center">4 h</th>
+							<th align="center">N</th>
+							<th align="center">6 h</th>
+							<th align="center">N</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td align="left"><italic>Macrocoeloma trispinosum</italic></td>
+							<td align="center">35.3 ± 0.1 (35.2-35.3)</td>
+							<td align="center">3</td>
+							<td align="center">-</td>
+							<td align="center">-</td>
+							<td align="center">-</td>
+							<td align="center">-</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Aratus pisonii</italic></td>
+							<td align="center">38.5 ± 0.3 (38.2-38.9)</td>
+							<td align="center">12</td>
+							<td align="center">38.0 ± 0.3 (37.6-38.4)</td>
+							<td align="center">7</td>
+							<td align="center">37.6 ± 0.3 (37.1-37.8)</td>
+							<td align="center">7</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Armases ricordi</italic></td>
+							<td align="center">39.9 ± 0.3 (39.5-40.3)</td>
+							<td align="center">10</td>
+							<td align="center">39.4 ± 0.3 (38.9-39.8)</td>
+							<td align="center">9</td>
+							<td align="center">38.9 ± 0.1 (38.7-39.1)</td>
+							<td align="center">9</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Minuca rapax</italic></td>
+							<td align="center">40.7 ± 0.2 (40.3-41.0)</td>
+							<td align="center">11</td>
+							<td align="center">40.3 ± 0.5 (39.7-40.8)</td>
+							<td align="center">6</td>
+							<td align="center">39.7 ± 0.2 (39.2-39.9)</td>
+							<td align="center">6</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+		</p>
+		<p>The thermal tolerance of actively swimming larvae was tested using a thermal gradient generated by a heated metal block. The heatblock is a custom-made aluminum block with four rows divided by 10 columns of evenly spaced holes that snuggly fit 15-mL scintillation vials (<xref ref-type="bibr" rid="B4">Collin and Chan 2016</xref>). Each vial was filled with 15 ml of filtered seawater and contained 15 larvae from a single female. Broods from each female were tested separately, as significant differences between females could reflect genetic differences between the half-sib families of larvae or environmental maternal effects, which could be important for understanding the potential evolutionary responses to environmental warming.</p>
+		<p>The temperature gradient ranged from 34 to 44 °C for <italic>A. pisonii</italic>, <italic>A. ricordi</italic>, and <italic>M. rapax</italic> and from 28 to 40 °C for <italic>M. trispinosum</italic>. The temperature inside the vials was recorded with an Omega High Accuracy Digital Thermometer. For each female, one row of ten vials was kept in the heat block for 2 hours, another row was kept for 4 hours and another for 6 hours. After the exposure each larva was scored as alive or dead. Data were analyzed with the statistical software SPSS v. 20.0. The effect of temperature on survival was tested using logistic regressions with the binary response of alive/dead after the exposure. The lethal temperature (LT<sub>50</sub>) was estimated as the temperature at which 50% of the larvae died. To determine if the species differ in thermal tolerance, we used a logistic regression to compare the 2 hours tolerances with species and temperature as factors. Additionally, for each species individually, we determine if there was an interaction between female and temperature for survival at 2 hours, to understand the magnitude of variation among broods. With the exception of <italic>M. trispinosum</italic>, we also used logistic regression to determine if thermal tolerance changed between the 2 and 6 hours of exposure for each of the species, with temperature and time of exposure as factors.</p>
+		<p>Thermal tolerance at 2 hours (<xref ref-type="fig" rid="f1">Fig. 1</xref>, <xref ref-type="table" rid="t1">Table 1</xref>) differed significantly among the four species. Logistic regression showed a significant effect of temperature, species, and an interaction between temperature and species on survival of a 2 hours exposure (<xref ref-type="table" rid="t2">Table 2</xref>). The two-tailed 95% confidence intervals of the LT<sub>50</sub> values did not overlap for any of the four species. Larvae of <italic>M. trispinosum</italic> had the lowest temperature tolerance, with LT<sub>50</sub> around 35 °C and complete mortality at 37 °C. LT<sub>50</sub> of the mangrove tree crab <italic>A. pisonii</italic> was around 38.5 °C, with complete mortality at 40 °C. The larvae of <italic>A. ricordi</italic> and <italic>M. rapax</italic> had LT<sub>50</sub> values of 39.9 and 40.7 °C, respectively, and complete mortality by 42°C. Separate analyses for each species, showed a significant interaction between female and temperature in all of the species (<xref ref-type="table" rid="t2">Table 2</xref>).</p>
+		<p>
+			<fig id="f1">
+				<label>Figures 1-4</label>
+				<caption>
+					<title>Zoea I thermal tolerance of <italic>Macrocoeloma trispinosum</italic>, <italic>Aratus pisonii</italic>, <italic>Armases ricordi</italic>, and <italic>Minuca rapax</italic>: (1) Comparison of larval survival after 2 hours; (2-4) Comparison of larval survival within species at 2, 4 and 6 hours.</title>
+				</caption>
+				<graphic xlink:href="1984-4689-zool-35-e14641-gf1.jpg"/>
+			</fig>
+		</p>
+		<p>
+			<table-wrap id="t2">
+				<label>Table 2</label>
+				<caption>
+					<title>Logistic regression of the larval survival after a 2 hours exposure for the four crab species, and the interaction between female and temperature for each species individually.</title>
+				</caption>
+				<table>
+					<colgroup>
+						<col/>
+						<col/>
+						<col/>
+						<col/>
+					</colgroup>
+					<thead>
+						<tr>
+							<th align="center">Source</th>
+							<th align="center">DF</th>
+							<th align="center">Chi Square</th>
+							<th align="center">p</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td align="left">Species</td>
+							<td align="center">3</td>
+							<td align="center">135.59</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Temperature</td>
+							<td align="center">1</td>
+							<td align="center">2835.92</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Species x Temperature</td>
+							<td align="center">3</td>
+							<td align="center">278.43</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left" colspan="4">Female x Temperature</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Macrocoeloma trispinosum</italic></td>
+							<td align="center">2</td>
+							<td align="center">10.21</td>
+							<td align="center">0.006</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Aratus pisonii</italic></td>
+							<td align="center">11</td>
+							<td align="center">131.45</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Armases ricordi</italic></td>
+							<td align="center">9</td>
+							<td align="center">64.96</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left"><italic>Minuca rapax</italic></td>
+							<td align="center">10</td>
+							<td align="center">55.76</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+		</p>
+		<p>Regarding the effect of the duration of exposures on larval survival, in the three species for which we have 2, 4 and 6 hours exposures, longer exposures generated lower estimates of LT<sub>50</sub> (<xref ref-type="fig" rid="f1">Figs 2-4</xref>, <xref ref-type="table" rid="t1">Table 1</xref>). For each species, logistic regression showed a significant effect of exposure time, temperature, and an interaction between temperature and duration of exposure (<xref ref-type="table" rid="t3">Table 3</xref>). The rank order of the LT<sub>50</sub> among species did not change, and the LT<sub>50</sub> of a 6 hours exposure was approximately 1°C lower than a 2 hours exposure for each species.</p>
+		<p>
+			<table-wrap id="t3">
+				<label>Table 3</label>
+				<caption>
+					<title>Logistic regression of larval survival over time (between 2 and 6 hours) for each species.</title>
+				</caption>
+				<table>
+					<colgroup>
+						<col/>
+						<col/>
+						<col/>
+						<col/>
+						<col/>
+					</colgroup>
+					<thead>
+						<tr>
+							<th align="center">Species</th>
+							<th align="center">Source</th>
+							<th align="center">DF</th>
+							<th align="center">Chi Square</th>
+							<th align="center">p</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td align="left" rowspan="3"><italic>Aratus pisonii</italic></td>
+							<td align="left">Exposure time</td>
+							<td align="center">1</td>
+							<td align="center">18.91</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Temperature</td>
+							<td align="center">1</td>
+							<td align="center">1457.82</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Exposure time x Temperature</td>
+							<td align="center">1</td>
+							<td align="center">104.73</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left" rowspan="3"><italic>Armases ricordi</italic></td>
+							<td align="left">Exposure time</td>
+							<td align="center">1</td>
+							<td align="center">41.10</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Temperature</td>
+							<td align="center">1</td>
+							<td align="center">1837.86</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Exposure time x Temperature</td>
+							<td align="center">1</td>
+							<td align="center">140.69</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left" rowspan="3"><italic>Minuca rapax</italic></td>
+							<td align="left">Exposure time</td>
+							<td align="center">1</td>
+							<td align="center">22.30</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Temperature</td>
+							<td align="center">1</td>
+							<td align="center">1837.35</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+						<tr>
+							<td align="left">Exposure time x Temperature</td>
+							<td align="center">1</td>
+							<td align="center">158.56</td>
+							<td align="center">&lt;0.001</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+		</p>
+		<p>Unlike other marine invertebrates in which fertilization and development of early life stages occur in the water column, crabs carry their embryos on their abdomen until the larvae are ready to hatch. This means that embryos must tolerate the environmental conditions of the mother’s habitat. Our data show a trend in thermal tolerance with adult habitat, despite the fact that larval habitat is likely similar for all four species. Zoea from the subtidal species (<italic>M. trispinosum</italic>) have the lower thermal tolerance, while those from the sand fiddler species, <italic>M. rapax</italic>, have the highest UTL. Our taxon sampling is too sparse to determine to what extent phylogenetic relationships determine thermal tolerances. However, a study on paleomonid shrimps (<xref ref-type="bibr" rid="B20">Ravaux et al. 2016</xref>), suggests that the ability for acclimation of the upper thermal limit was not determined by the phylogenetic affiliation in that group, but to be related to their thermal habitats.</p>
+		<p>Local thermal gradients can be caused by fine-scale variation in conditions such as altitude or solar exposure (<xref ref-type="bibr" rid="B26">Stillman and Somero 2000</xref>). Adults of <italic>M. trispinosum</italic> are found in shallow waters to 60 m (<xref ref-type="bibr" rid="B15">Lemaitre 1981</xref>, <xref ref-type="bibr" rid="B14">Keith 1985</xref>), and habitat temperatures are controlled primarily by water temperature. <italic>Minuca rapax</italic> is a highly active semiterrestrial species, found frequently on sand flats near mangroves. This species has showed a high resistance to water loss, supporting great desiccation and thermal stress conditions (<xref ref-type="bibr" rid="B24">Smith and Miller 1973</xref>, <xref ref-type="bibr" rid="B30">Thurman 1998</xref>). Thus, it is likely that <italic>M. rapax</italic> would experience higher solar radiation levels, and therefore, higher temperatures than <italic>M. trispinosum</italic>.</p>
+		<p>Compared to the other species, the larvae of <italic>A. pisonii</italic>, a semiterrestrial crab, showed intermediate UTL values. As <italic>M. rapax</italic>, adults of <italic>A. pisonii</italic> are constantly exposed to air conditions; however, this species is exposed to lower solar radiation and cooler microhabitat due to the shade from the mangrove canopy. It may also face less desiccation stress due to frequent trips to the water surface to rehydrate (<xref ref-type="bibr" rid="B32">Wolcott and Wolcott 2001</xref>, personal observations). Therefore, it is likely that these species encounter different maximal temperatures in their natural environment.</p>
+		<p>Environmental monitoring in Bocas del Toro has provided data on both water temperature and air temperature near the site of our study (<xref ref-type="bibr" rid="B13">Kaufmann and Thompson 2005</xref>, <xref ref-type="bibr" rid="B5">Collin et al. 2009</xref>, <xref ref-type="bibr" rid="B4">Collin and Chan 2016</xref>). Data measured less than 200 m from our study site (<ext-link ext-link-type="uri" xlink:href="http://biogeodb.stri.si.edu/physical_monitoring/research/bocas">http://biogeodb.stri.si.edu/physical_monitoring/research/bocas</ext-link>) shows air temperatures from May 2002 until June 2016 well below the thermal tolerance of the zoea. Mean air temperature over this period was 26.3 °C, 95% of the 15 minutes temperature averages did not exceed 29.6 °C, and the maximum temperature recorded during this period was 34.4 °C. In contrast the mean water temperature during the same period was 28.8 °C, 95% of the observations did not exceed 30.4 °C and the maximum during this period was 31.7 °C.</p>
+		<p>This shows that water temperature in the shallow-water habitats relevant to the early developmental stages of these species is generally warmer than the air temperature. However, extreme air temperatures are higher in terrestrial habitats, and terrestrial microhabitats receiving direct solar radiation may significantly exceed reported air temperatures. The 2-hour assays show a 3-7 °C difference between the 2-hour UTLs and the maximum recorded water temperatures, suggesting that the early zoea stages of these species are unlikely to ever encounter lethal temperatures. However, we also demonstrated that the duration of exposure impacts the estimate of UTL, with the LT<sub>50</sub> decreasing similarly in the three species tested, indicating that long-term thermal stress may have negative impacts at lower temperatures.</p>
+		<p>Parental thermal history of marine organism can also influence the temperature tolerance of the offspring (<xref ref-type="bibr" rid="B9">Fujisawa 1995</xref>, <xref ref-type="bibr" rid="B2">Bingham et al. 1997</xref>, <xref ref-type="bibr" rid="B33">Zippay and Hofmann 2010</xref>). Maternal effects can be considered as a shared phenotype that influence simultaneously both maternal and offspring fitness (<xref ref-type="bibr" rid="B17">Marshall and Uller 2007</xref>). Therefore, the significant effect of mother on the thermal thresholds exhibited by the zoea I of these species could result from either genetic differences or plastic responses to the microhabitat conditions of the mother or both. Either way, such variation between individuals is fundamentally important for a species ability to respond to environmental change.</p>
+		<p>In conclusion, we found that the larvae of these four species experience abrupt reduction in survival around the UTL and that zoea from the subtidal species had lower UTLs than did those from the semiterrestrial species. All of these UTLs were significantly higher than both air and ocean temperatures experienced in Bocas del Toro. UTLs differ significantly among females suggesting that acclimation capacity or genetic variation may impact thermal tolerance. Since there is a decrease in the LT<sub>50</sub> as exposure time increases, longer term rearing studies are necessary to determine the temperature at which chronic exposure to thermal stress has a negative impact on larval growth and survival.</p>
+	</body>
+	<back>
+		<ack>
+			<title>ACKNOWLEDGMENTS</title>
+			<p>The authors thank the staff of the Smithsonian Tropical Research Institute’s Bocas del Toro Research Station for logistic support and Autoridad de Recursos Acuáticos de Panamá and the Panama’s Ministerio de Ambiente for giving permission for us to conduct this work.</p>
+		</ack>
+		<ref-list>
+			<title>LITERATURE CITED</title>
+			<ref id="B1">
+				<mixed-citation>Anger K, Thatje S, Lovrich G, Calcagno J (2003) Larval and early juvenile development of <italic>Paralomis granulosa</italic> reared at different temperatures: tolerance of cold and food limitation in a lithodid crab from high latitudes. Marine Ecology-progress Series 253: 242-251.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Anger</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Thatje</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Lovrich</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Calcagno</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Larval and early juvenile development of Paralomis granulosa reared at different temperatures: tolerance of cold and food limitation in a lithodid crab from high latitudes</article-title>
+					<source>Marine Ecology-progress Series</source>
+					<volume>253</volume>
+					<fpage>242</fpage>
+					<lpage>251</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bingham BL, Bacigalupi M, Johnson LG (1997) Temperature adaptations of embryos from intertidal and subtidal sand dollars (<italic>Dendraster excentricus</italic>, Wschscholtz). Northwest Science 71(2): 108-114.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bingham</surname>
+							<given-names>BL</given-names>
+						</name>
+						<name>
+							<surname>Bacigalupi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Johnson</surname>
+							<given-names>LG</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<article-title>Temperature adaptations of embryos from intertidal and subtidal sand dollars (Dendraster excentricus, Wschscholtz)</article-title>
+					<source>Northwest Science</source>
+					<volume>71</volume>
+					<issue>2</issue>
+					<fpage>108</fpage>
+					<lpage>114</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Byrne M (2011) Impact of ocean warming and ocean acidification on marine invertebrate life history stages: Vulnerabilities and potential for persistence in a changing ocean. Oceanography and Marine Biology: An Annual Review 49: 1-42.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Byrne</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Impact of ocean warming and ocean acidification on marine invertebrate life history stages: Vulnerabilities and potential for persistence in a changing ocean</article-title>
+					<source>Oceanography and Marine Biology: An Annual Review</source>
+					<volume>49</volume>
+					<fpage>1</fpage>
+					<lpage>42</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Collin R, Chan KYK (2016) The sea urchin <italic>Lytechinus variegatus</italic> lives close to the upper thermal limit for early development in a tropical lagoon. Ecology and Evolution 6(16): 5625-5634. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ece3.2317">https://doi.org/10.1002/ece3.2317</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Collin</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Chan</surname>
+							<given-names>KYK</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>The sea urchin Lytechinus variegatus lives close to the upper thermal limit for early development in a tropical lagoon</article-title>
+					<source>Ecology and Evolution</source>
+					<volume>6</volume>
+					<issue>16</issue>
+					<fpage>5625</fpage>
+					<lpage>5634</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ece3.2317">https://doi.org/10.1002/ece3.2317</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Collin R, D’Croz L, Gondola P, Del Rosario JB (2009) Climate and hydrological factors affecting variation in chlorophyll concentration and water clarity in the Bahia Almirante, Panama. Smithsonian Contributions to Marine Sciences 38: 323-334.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Collin</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>D’Croz</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Gondola</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Del Rosario</surname>
+							<given-names>JB</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Climate and hydrological factors affecting variation in chlorophyll concentration and water clarity in the Bahia Almirante, Panama</article-title>
+					<source>Smithsonian Contributions to Marine Sciences</source>
+					<volume>38</volume>
+					<fpage>323</fpage>
+					<lpage>334</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Collin R, Rendina F, Goodwin V, McCabe S (2018) Do tropical specialist sea urchins have higher thermal tolerances and optimal temperatures than their more widely distributed relatives? Marine Ecology Progress Series 589: 151-166. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3354/meps12487">https://doi.org/10.3354/meps12487</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Collin</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Rendina</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Goodwin</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>McCabe</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Do tropical specialist sea urchins have higher thermal tolerances and optimal temperatures than their more widely distributed relatives?</article-title>
+					<source>Marine Ecology Progress Series</source>
+					<volume>589</volume>
+					<fpage>151</fpage>
+					<lpage>166</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3354/meps12487">https://doi.org/10.3354/meps12487</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Fowler AE, Gerner NV, Sewell MA (2010) Temperature and salinity tolerances of Stage 1 zoeae predict possible range expansion of an introduced portunid crab, <italic>Charybdis japonica</italic>, in New Zealand. Biological invasions 13(3): 696-699. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10530-010-9860-2">https://doi.org/10.1007/s10530-010-9860-2</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fowler</surname>
+							<given-names>AE</given-names>
+						</name>
+						<name>
+							<surname>Gerner</surname>
+							<given-names>NV</given-names>
+						</name>
+						<name>
+							<surname>Sewell</surname>
+							<given-names>MA</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Temperature and salinity tolerances of Stage 1 zoeae predict possible range expansion of an introduced portunid crab, Charybdis japonica, in New Zealand</article-title>
+					<source>Biological invasions</source>
+					<volume>13</volume>
+					<issue>3</issue>
+					<fpage>696</fpage>
+					<lpage>699</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10530-010-9860-2">https://doi.org/10.1007/s10530-010-9860-2</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Frederich M, Pörtner HO (2000) Oxygen limitation of thermal tolerance defined by cardiac and ventilatory performance in spider crab, <italic>Maja squinado</italic>. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 279(5): R1531-R1538.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Frederich</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Pörtner</surname>
+							<given-names>HO</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Oxygen limitation of thermal tolerance defined by cardiac and ventilatory performance in spider crab, Maja squinado</article-title>
+					<source>American Journal of Physiology-Regulatory, Integrative and Comparative Physiology</source>
+					<volume>279</volume>
+					<issue>5</issue>
+					<fpage>R1531</fpage>
+					<lpage>R1538</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Fujisawa H (1995) Variation in embryonic temperature sensitivity among groups of the sea urchin, <italic>Hemicentrotus pulcherrimus</italic>, which differ in their habitats. Zoological Science 12(5): 585-589.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fujisawa</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<article-title>Variation in embryonic temperature sensitivity among groups of the sea urchin, Hemicentrotus pulcherrimus, which differ in their habitats</article-title>
+					<source>Zoological Science</source>
+					<volume>12</volume>
+					<issue>5</issue>
+					<fpage>585</fpage>
+					<lpage>589</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Gilman SE (2006) The northern geographic range limit of the intertidal limpet <italic>Collisella scabra</italic>: a test of performance, recruitment, and temperature hypotheses. Ecography 29(5): 707-720. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.0906-7590.2006.04572.x">https://doi.org/10.1111/j.0906-7590.2006.04572.x</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gilman</surname>
+							<given-names>SE</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>The northern geographic range limit of the intertidal limpet Collisella scabra: a test of performance, recruitment, and temperature hypotheses</article-title>
+					<source>Ecography</source>
+					<volume>29</volume>
+					<issue>5</issue>
+					<fpage>707</fpage>
+					<lpage>720</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.0906-7590.2006.04572.x">https://doi.org/10.1111/j.0906-7590.2006.04572.x</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Hammond LM, Hofmann GE (2010) Thermal tolerance of <italic>Strongylocentrotus purpuratus</italic> early life history stages: mortality, stress-induced gene expression and biogeographic patterns. Marine Biology 157(12): 2672-2687. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-010-1528-z">https://doi.org/10.1007/s00227-010-1528-z</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hammond</surname>
+							<given-names>LM</given-names>
+						</name>
+						<name>
+							<surname>Hofmann</surname>
+							<given-names>GE</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Thermal tolerance of Strongylocentrotus purpuratus early life history stages: mortality, stress-induced gene expression and biogeographic patterns</article-title>
+					<source>Marine Biology</source>
+					<volume>157</volume>
+					<issue>12</issue>
+					<fpage>2672</fpage>
+					<lpage>2687</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-010-1528-z">https://doi.org/10.1007/s00227-010-1528-z</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Harley CD, Randall Hughes A, Hultgren KM, Miner BG, Sorte CJ, Thornber CS, Rodriguez L, Tomanek L, Williams SL (2006) The impacts of climate change in coastal marine systems. Ecology Letters 9(2): 222-241.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harley</surname>
+							<given-names>CD</given-names>
+						</name>
+						<name>
+							<surname>Randall Hughes</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Hultgren</surname>
+							<given-names>KM</given-names>
+						</name>
+						<name>
+							<surname>Miner</surname>
+							<given-names>BG</given-names>
+						</name>
+						<name>
+							<surname>Sorte</surname>
+							<given-names>CJ</given-names>
+						</name>
+						<name>
+							<surname>Thornber</surname>
+							<given-names>CS</given-names>
+						</name>
+						<name>
+							<surname>Rodriguez</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Tomanek</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Williams</surname>
+							<given-names>SL</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>The impacts of climate change in coastal marine systems</article-title>
+					<source>Ecology Letters</source>
+					<volume>9</volume>
+					<issue>2</issue>
+					<fpage>222</fpage>
+					<lpage>241</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Kaufmann KW, Thompson RC (2005). Water temperature variation and the meteorological and hydrographic environment of Bocas del Toro, Panama. Caribbean Journal of Science 41(3): 394-413.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kaufmann</surname>
+							<given-names>KW</given-names>
+						</name>
+						<name>
+							<surname>Thompson</surname>
+							<given-names>RC</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Water temperature variation and the meteorological and hydrographic environment of Bocas del Toro, Panama</article-title>
+					<source>Caribbean Journal of Science</source>
+					<volume>41</volume>
+					<issue>3</issue>
+					<fpage>394</fpage>
+					<lpage>413</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Keith DE (1985) Shallow-water and terrestrial brachyuran crabs of Roatan and the Swan Islands, Honduras. Sarsia 70(4): 252-278.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Keith</surname>
+							<given-names>DE</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<article-title>Shallow-water and terrestrial brachyuran crabs of Roatan and the Swan Islands, Honduras</article-title>
+					<source>Sarsia</source>
+					<volume>70</volume>
+					<issue>4</issue>
+					<fpage>252</fpage>
+					<lpage>278</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Lemaitre R (1981) Shallow-water crabs (Decapoda, Brachyura) collected in the southern Caribbean near Cartagena, Colombia. Bulletin of Marine Science 31(2): 232-266.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lemaitre</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<article-title>Shallow-water crabs (Decapoda, Brachyura) collected in the southern Caribbean near Cartagena, Colombia</article-title>
+					<source>Bulletin of Marine Science</source>
+					<volume>31</volume>
+					<issue>2</issue>
+					<fpage>232</fpage>
+					<lpage>266</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Madeira D, Narciso L, Cabral HN, Vinagre C (2012) Thermal tolerance and potential impacts of climate change on coastal and estuarine organisms. Journal of Sea Research 70: 34-41. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.seares.2012.03.002">https://doi.org/10.1016/j.seares.2012.03.002</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Madeira</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Narciso</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Cabral</surname>
+							<given-names>HN</given-names>
+						</name>
+						<name>
+							<surname>Vinagre</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Thermal tolerance and potential impacts of climate change on coastal and estuarine organisms</article-title>
+					<source>Journal of Sea Research</source>
+					<volume>70</volume>
+					<fpage>34</fpage>
+					<lpage>41</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.seares.2012.03.002">https://doi.org/10.1016/j.seares.2012.03.002</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Marshall DJ, Uller T (2007) When is a maternal effect adaptive? Oikos 116(12): 1951-1963. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.2007.0030-1299.16203.x">https://doi.org/10.1111/j.2007.0030-1299.16203.x</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marshall</surname>
+							<given-names>DJ</given-names>
+						</name>
+						<name>
+							<surname>Uller</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>When is a maternal effect adaptive?</article-title>
+					<source>Oikos</source>
+					<volume>116</volume>
+					<issue>12</issue>
+					<fpage>1951</fpage>
+					<lpage>1963</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.2007.0030-1299.16203.x">https://doi.org/10.1111/j.2007.0030-1299.16203.x</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Metzger R, Sartoris FJ, Langenbuch M, Pörtner HO (2007) Influence of elevated CO<sub>2</sub> concentrations on thermal tolerance of the edible crab <italic>Cancer pagurus</italic>. Journal of Thermal Biology 32(3): 141-151. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jtherbio.2007.01.010">https://doi.org/10.1016/j.jtherbio.2007.01.010</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Metzger</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Sartoris</surname>
+							<given-names>FJ</given-names>
+						</name>
+						<name>
+							<surname>Langenbuch</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Pörtner</surname>
+							<given-names>HO</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Influence of elevated CO2 concentrations on thermal tolerance of the edible crab Cancer pagurus</article-title>
+					<source>Journal of Thermal Biology</source>
+					<volume>32</volume>
+					<issue>3</issue>
+					<fpage>141</fpage>
+					<lpage>151</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jtherbio.2007.01.010">https://doi.org/10.1016/j.jtherbio.2007.01.010</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Nguyen KDT, Morley SA, Lai CH, Clark MS, Tan KS, Bates AE, Peck LS (2011) Upper temperature limits of tropical marine ectotherms: global warming implications. PLoS One 6(12): e29340. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0029340">https://doi.org/10.1371/journal.pone.0029340</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nguyen</surname>
+							<given-names>KDT</given-names>
+						</name>
+						<name>
+							<surname>Morley</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Lai</surname>
+							<given-names>CH</given-names>
+						</name>
+						<name>
+							<surname>Clark</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Tan</surname>
+							<given-names>KS</given-names>
+						</name>
+						<name>
+							<surname>Bates</surname>
+							<given-names>AE</given-names>
+						</name>
+						<name>
+							<surname>Peck</surname>
+							<given-names>LS</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Upper temperature limits of tropical marine ectotherms: global warming implications</article-title>
+					<source>PLoS One</source>
+					<volume>6</volume>
+					<issue>12</issue>
+					<elocation-id>e29340</elocation-id>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0029340">https://doi.org/10.1371/journal.pone.0029340</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Ravaux J, Léger N, Rabet N, Fourgous C, Voland G, Zbinden M, Shillito B (2016) Plasticity and acquisition of the thermal tolerance (upper thermal limit and heat shock response) in the intertidal species <italic>Palaemon elegans</italic>. Journal of Experimental Marine Biology and Ecology 484: 34-45. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jembe.2016.07.003">https://doi.org/10.1016/j.jembe.2016.07.003</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ravaux</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Léger</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Rabet</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Fourgous</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Voland</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Zbinden</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Shillito</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Plasticity and acquisition of the thermal tolerance (upper thermal limit and heat shock response) in the intertidal species Palaemon elegans</article-title>
+					<source>Journal of Experimental Marine Biology and Ecology</source>
+					<volume>484</volume>
+					<fpage>34</fpage>
+					<lpage>45</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jembe.2016.07.003">https://doi.org/10.1016/j.jembe.2016.07.003</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Sanford E, Holzman SB, Haney RA, Rand DM, Bertness MD (2006) Larval tolerance, gene flow, and the northern geographic range limit of fiddler crabs. Ecology 87(11): 2882-2894. https://doi.org/10.1890/0012-9658(2006)87[2882:LTGFAT]2.0.CO;2</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sanford</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Holzman</surname>
+							<given-names>SB</given-names>
+						</name>
+						<name>
+							<surname>Haney</surname>
+							<given-names>RA</given-names>
+						</name>
+						<name>
+							<surname>Rand</surname>
+							<given-names>DM</given-names>
+						</name>
+						<name>
+							<surname>Bertness</surname>
+							<given-names>MD</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Larval tolerance, gene flow, and the northern geographic range limit of fiddler crabs</article-title>
+					<source>Ecology</source>
+					<volume>87</volume>
+					<issue>11</issue>
+					<fpage>2882</fpage>
+					<lpage>2894</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Schiffer M, Harms L, Lucassen M, Mark FC, Pörtner HO, Storch D (2014). Temperature tolerance of different larval stages of the spider crab <italic>Hyas araneus</italic> exposed to elevated seawater PCO<sub>2</sub>. Frontiers in Zoology 11(1): 87. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12983-014-0087-4">https://doi.org/10.1186/s12983-014-0087-4</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schiffer</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Harms</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Lucassen</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Mark</surname>
+							<given-names>FC</given-names>
+						</name>
+						<name>
+							<surname>Pörtner</surname>
+							<given-names>HO</given-names>
+						</name>
+						<name>
+							<surname>Storch</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Temperature tolerance of different larval stages of the spider crab Hyas araneus exposed to elevated seawater PCO2</article-title>
+					<source>Frontiers in Zoology</source>
+					<volume>11</volume>
+					<issue>1</issue>
+					<fpage>87</fpage>
+					<lpage>87</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12983-014-0087-4">https://doi.org/10.1186/s12983-014-0087-4</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Schmalenbach I, Franke HD (2010) Potential impact of climate warming on the recruitment of an economically and ecologically important species, the European lobster (<italic>Homarus gammarus</italic>) at Helgoland, North Sea. Marine Biology 157(5): 1121-1135. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-010-1394-8">https://doi.org/10.1007/s00227-010-1394-8</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schmalenbach</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Franke</surname>
+							<given-names>HD</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Potential impact of climate warming on the recruitment of an economically and ecologically important species, the European lobster (Homarus gammarus) at Helgoland, North Sea</article-title>
+					<source>Marine Biology</source>
+					<volume>157</volume>
+					<issue>5</issue>
+					<fpage>1121</fpage>
+					<lpage>1135</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-010-1394-8">https://doi.org/10.1007/s00227-010-1394-8</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Smith WK, Miller PC (1973) The thermal ecology of two south Florida fiddler crabs: <italic>Uca rapax</italic> Smith and <italic>U. pugilator</italic> Bosc. Physiological Zoology 46(3): 182-207.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smith</surname>
+							<given-names>WK</given-names>
+						</name>
+						<name>
+							<surname>Miller</surname>
+							<given-names>PC</given-names>
+						</name>
+					</person-group>
+					<year>1973</year>
+					<article-title>The thermal ecology of two south Florida fiddler crabs: Uca rapax Smith and U. pugilator Bosc</article-title>
+					<source>Physiological Zoology</source>
+					<volume>46</volume>
+					<issue>3</issue>
+					<fpage>182</fpage>
+					<lpage>207</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Somero GN (2010) The physiology of climate change: how potentials for acclimatization and genetic adaptation will determine ‘winners’ and ‘losers’. The Journal of Experimental Biology 213(6): 919-920. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.037473">https://doi.org/10.1242/jeb.037473</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Somero</surname>
+							<given-names>GN</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>The physiology of climate change: how potentials for acclimatization and genetic adaptation will determine ‘winners’ and ‘losers’</article-title>
+					<source>The Journal of Experimental Biology</source>
+					<volume>213</volume>
+					<issue>6</issue>
+					<fpage>919</fpage>
+					<lpage>920</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.037473">https://doi.org/10.1242/jeb.037473</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Stillman JH, Somero GN (2000) A comparative analysis of the upper thermal tolerance limits of eastern Pacific porcelain crabs, genus <italic>Petrolisthes</italic>: influences of latitude, vertical zonation, acclimation, and phylogeny. Physiological and Biochemical Zoology 73(2): 202-208.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stillman</surname>
+							<given-names>JH</given-names>
+						</name>
+						<name>
+							<surname>Somero</surname>
+							<given-names>GN</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>A comparative analysis of the upper thermal tolerance limits of eastern Pacific porcelain crabs, genus Petrolisthes: influences of latitude, vertical zonation, acclimation, and phylogeny</article-title>
+					<source>Physiological and Biochemical Zoology</source>
+					<volume>73</volume>
+					<issue>2</issue>
+					<fpage>202</fpage>
+					<lpage>208</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Storch D, Santelices P, Barria J, Cabeza K, Pörtner HO, Fernández M (2009) Thermal tolerance of crustacean larvae (zoea I) in two different populations of the kelp crab <italic>Taliepus dentatus</italic> (Milne-Edwards). Journal of Experimental Biology 212(9): 1371-1376. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.030205">https://doi.org/10.1242/jeb.030205</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Storch</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Santelices</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Barria</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Cabeza</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Pörtner</surname>
+							<given-names>HO</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Thermal tolerance of crustacean larvae (zoea I) in two different populations of the kelp crab Taliepus dentatus (Milne-Edwards)</article-title>
+					<source>Journal of Experimental Biology</source>
+					<volume>212</volume>
+					<issue>9</issue>
+					<fpage>1371</fpage>
+					<lpage>1376</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.030205">https://doi.org/10.1242/jeb.030205</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Storch D, Fernández M, Navarrete SA, Pörtner HO (2011) Thermal tolerance of larval stages of the Chilean kelp crab <italic>Taliepus dentatus</italic>. Marine Ecology Progress Series 429: 151-167. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3354/meps09059">https://doi.org/10.3354/meps09059</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Storch</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Navarrete</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Pörtner</surname>
+							<given-names>HO</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Thermal tolerance of larval stages of the Chilean kelp crab Taliepus dentatus</article-title>
+					<source>Marine Ecology Progress Series</source>
+					<volume>429</volume>
+					<fpage>151</fpage>
+					<lpage>167</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3354/meps09059">https://doi.org/10.3354/meps09059</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Tepolt CK, Somero GN (2014) Master of all trades: thermal acclimation and adaptation of cardiac function in a broadly distributed marine invasive species, the European green crab, <italic>Carcinus maenas</italic>. Journal of Experimental Biology 217(7): 1121-1138. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.093849">https://doi.org/10.1242/jeb.093849</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tepolt</surname>
+							<given-names>CK</given-names>
+						</name>
+						<name>
+							<surname>Somero</surname>
+							<given-names>GN</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Master of all trades: thermal acclimation and adaptation of cardiac function in a broadly distributed marine invasive species, the European green crab, Carcinus maenas</article-title>
+					<source>Journal of Experimental Biology</source>
+					<volume>217</volume>
+					<issue>7</issue>
+					<fpage>1121</fpage>
+					<lpage>1138</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1242/jeb.093849">https://doi.org/10.1242/jeb.093849</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Thurman CL (1998) Evaporative water loss, corporal temperature and the distribution of sympatric fiddler crabs (<italic>Uca</italic>) from south Texas. Comparative Biochemistry and Physiology, Part A: Molecular &amp; Integrative Physiology 119(1): 272-286</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Thurman</surname>
+							<given-names>CL</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<article-title>Evaporative water loss, corporal temperature and the distribution of sympatric fiddler crabs (Uca) from south Texas</article-title>
+					<source>Comparative Biochemistry and Physiology</source>
+					<issue-part>Part A: Molecular &amp; Integrative Physiology</issue-part>
+					<volume>119</volume>
+					<issue>1</issue>
+					<fpage>272</fpage>
+					<lpage>286</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Weiss M, Heilmayer O, Brey T, Thatje S (2009) Influence of temperature on the zoeal development and elemental composition of the cancrid crab, <italic>Cancer setosus</italic> Molina, 1782 from Pacific South America. Journal of Experimental Marine Biology and Ecology 376(1): 45-54. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jembe.2009.06.002">https://doi.org/10.1016/j.jembe.2009.06.002</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weiss</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Heilmayer</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Brey</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Thatje</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Influence of temperature on the zoeal development and elemental composition of the cancrid crab, Cancer setosus Molina, 1782 from Pacific South America</article-title>
+					<source>Journal of Experimental Marine Biology and Ecology</source>
+					<volume>376</volume>
+					<issue>1</issue>
+					<fpage>45</fpage>
+					<lpage>54</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jembe.2009.06.002">https://doi.org/10.1016/j.jembe.2009.06.002</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Wolcott TG, Wolcott DL (2001) Role of behavior in meeting osmotic challenges. American Zoologist 41(4): 798-806. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/icb/41.4.795">https://doi.org/10.1093/icb/41.4.795</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wolcott</surname>
+							<given-names>TG</given-names>
+						</name>
+						<name>
+							<surname>Wolcott</surname>
+							<given-names>DL</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>Role of behavior in meeting osmotic challenges</article-title>
+					<source>American Zoologist</source>
+					<volume>41</volume>
+					<issue>4</issue>
+					<fpage>798</fpage>
+					<lpage>806</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/icb/41.4.795">https://doi.org/10.1093/icb/41.4.795</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Zippay ML, Hofmann GE (2010) Physiological tolerances across latitudes: thermal sensitivity of larval marine snails (<italic>Nucella</italic> spp.). Marine Biology 157(4): 707-714. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-009-1354-3">https://doi.org/10.1007/s00227-009-1354-3</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zippay</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Hofmann</surname>
+							<given-names>GE</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Physiological tolerances across latitudes: thermal sensitivity of larval marine snails (Nucella spp.)</article-title>
+					<source>Marine Biology</source>
+					<volume>157</volume>
+					<issue>4</issue>
+					<fpage>707</fpage>
+					<lpage>714</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00227-009-1354-3">https://doi.org/10.1007/s00227-009-1354-3</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<title>Publication Notes</title>
+			<fn fn-type="other" id="fn4">
+				<label>Available online (first publication):</label>
+				<p> 22 March 2018</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>Zoobank Register:</label>
+				<p> http://zoobank.org/6C12FDF8-3766-4A42-8011-95475498BA94</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>Publisher:</label>
+				<p> © 2018 Sociedade Brasileira de Zoologia. Published by Pensoft Publishers at https://zoologia.pensoft.net</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>
