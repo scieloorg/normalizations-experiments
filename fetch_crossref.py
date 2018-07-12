@@ -12,25 +12,33 @@ import pandas as pd
 
 
 class RateLimitMemory:
-    def __init__(self):
+
+    def __init__(self, interval, limit, update, interval_rate, limit_rate):
         self.tstamps = []
-        self.interval = timedelta(seconds=1)
-        self.limit = 50
+        self.interval = timedelta(seconds=interval)
+        self.limit = limit
+        self.update = update
+        self.interval_rate = interval_rate
+        self.limit_rate = limit_rate
+
+    soft_limit = property(lambda self: self.limit * self.limit_rate)
+    soft_interval = property(lambda self: self.interval * self.interval_rate)
 
 
 async def download(rlm, session, url, fname):
-    while len(rlm.tstamps) >= .9 * rlm.limit:
-        threshold = datetime.utcnow() - rlm.interval * 1.1
+    while len(rlm.tstamps) >= rlm.soft_limit:
+        threshold = datetime.utcnow() - rlm.soft_interval
         rlm.tstamps = [dt for dt in rlm.tstamps if dt > threshold]
         await asyncio.sleep(0)
 
     print(f"Downloading {fname}!")
     rlm.tstamps.append(datetime.utcnow())
     async with session.get(url) as resp:
-        rlm.limit = int(resp.headers.get("X-Rate-Limit-Limit", rlm.limit))
-        str_interval = resp.headers.get("X-Rate-Limit-Interval", None)
-        if str_interval:
-            rlm.interval = timedelta(seconds=int(str_interval.rstrip("s")))
+        if rlm.update:
+            rlm.limit = int(resp.headers.get("X-Rate-Limit-Limit", rlm.limit))
+            str_interval = resp.headers.get("X-Rate-Limit-Interval", None)
+            if str_interval:
+                rlm.interval = timedelta(seconds=int(str_interval.rstrip("s")))
 
         result = await resp.text()
         if resp.status != 200:
@@ -40,8 +48,7 @@ async def download(rlm, session, url, fname):
                 output_file.write(result)
 
 
-async def perform_tasks(url_fmt, out_dir, dois):
-    rlm = RateLimitMemory()
+async def perform_tasks(rlm, url_fmt, out_dir, dois):
     async with aiohttp.ClientSession() as session:
         tasks = []
         for doi in dois:
@@ -58,6 +65,26 @@ async def perform_tasks(url_fmt, out_dir, dois):
 
 @click.command()
 @click.option("--email", "-e", help="E-mail for using the polite pool.")
+@click.option("--interval", "-i",
+    default=1,
+    help="Minimum duration in seconds between bursts.",
+)
+@click.option("--limit", "-l",
+    default=50,
+    help="Maximum number of requests allowed in an interval.",
+)
+@click.option("--update/--no-update",
+    default=True,
+    help="Update limit/interval following the X-Rate-Limit headers.",
+)
+@click.option("--interval-rate", "-I",
+    default=1.1,
+    help="Wait this rate times the interval between bursts.",
+)
+@click.option("--limit-rate", "-L",
+    default=.9,
+    help="Fetch this rate times the request limit in a burst.",
+)
 @click.option("--out-dir", "-d",
     default="crossref-by-doi",
     type=click.Path(file_okay=False, dir_okay=True, writable=True,
@@ -65,15 +92,17 @@ async def perform_tasks(url_fmt, out_dir, dois):
     help="Directory to store the collected JSON files.",
 )
 @click.argument("csv_file", type=click.File("r"))
-def main(email, out_dir, csv_file):
+def main(email, interval, limit, update, interval_rate, limit_rate, out_dir,
+         csv_file):
     dataset = pd.read_csv(csv_file, dtype=str, keep_default_na=False)
     dois = (doi for doi in dataset["article_doi"].str.strip().unique() if doi)
     os.makedirs(out_dir, exist_ok=True)
     url_fmt = "https://api.crossref.org/works/{}"
     if email:
         url_fmt += "?mailto=" + email
+    rlm = RateLimitMemory(interval, limit, update, interval_rate, limit_rate)
     loop = asyncio.get_event_loop()
-    loop.run_until_complete(perform_tasks(url_fmt, out_dir, dois))
+    loop.run_until_complete(perform_tasks(rlm, url_fmt, out_dir, dois))
 
 
 if __name__ == "__main__":
