@@ -104,3 +104,13 @@ Contents of this repository ordered by creation date:
       for predicting the country code,
       using k-Means, k-NN and random forest
     - `Notebook <experiments_2018-08_words_lsa.ipynb>`_
+
+  * - 2018-11-22 to ??
+    - Experiments with word2vec (still unfinished)
+    - `Notebook <experiments_2018-11_word2vec.ipynb>`_
+
+  * - 2018-12-06 to 2018-12-13
+    - Looking for articles' PIDs from USP/UNESP/UNICAMP
+      by analysing the distinct values
+      that appear as the institution name
+    - `Notebook <experiments_2018-12_sao_paulo.ipynb>`_
