@@ -110,7 +110,15 @@ Contents of this repository ordered by creation date:
     - `Notebook <experiments_2018-11_word2vec.ipynb>`_
 
   * - 2018-12-06 to 2018-12-13
-    - Looking for articles' PIDs from USP/UNESP/UNICAMP
-      by analysing the distinct values
+    - Looking for articles' PIDs from USP/UNESP/UNICAMP (SciELO Brazil)
+      by analyzing the distinct values
       that appear as the institution name
     - `Notebook <experiments_2018-12_sao_paulo.ipynb>`_
+
+  * - 2019-01-10 to 2019-02-14
+    - Looking for articles from EMBRAPA
+      and public state universities in SP (USP/UNESP/Unicamp)
+      in the entire SciELO Network
+      by analyzing the institution name, country, state and city,
+      as well as the graph of authors and institutions
+    - `Notebook <experiments_2019-02_usp_unicamp_unesp_embrapa.ipynb>`_
