@@ -113,7 +113,8 @@ Contents of this repository ordered by creation date:
     - Looking for articles' PIDs from USP/UNESP/UNICAMP (SciELO Brazil)
       by analyzing the distinct values
       that appear as the institution name
-    - `Notebook <experiments_2018-12_sao_paulo.ipynb>`_
+    - `Notebook <experiments_2018-12_sao_paulo.ipynb>`_ /
+      `XLSX <https://drive.google.com/file/d/1KwpXe-E-WET9CiPp8YZqRjor1JcJeuP6/view>`_
 
   * - 2019-01-10 to 2019-02-14
     - Looking for articles from EMBRAPA
@@ -121,4 +122,5 @@ Contents of this repository ordered by creation date:
       in the entire SciELO Network
       by analyzing the institution name, country, state and city,
       as well as the graph of authors and institutions
-    - `Notebook <experiments_2019-02_usp_unicamp_unesp_embrapa.ipynb>`_
+    - `Notebook <experiments_2019-02_usp_unicamp_unesp_embrapa.ipynb>`_ /
+      `XLSX <https://drive.google.com/file/d/1d3WIFoftk15uzGrPkSDzqaPqnSNeOfqq/view>`_
