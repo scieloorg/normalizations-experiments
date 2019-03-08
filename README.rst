@@ -105,9 +105,10 @@ Contents of this repository ordered by creation date:
       using k-Means, k-NN and random forest
     - `Notebook <experiments_2018-08_words_lsa.ipynb>`_
 
-  * - 2018-11-22 to ??
+  * - 2018-11-22 to 2019-03-08
     - Experiments with word2vec (still unfinished)
-    - `Notebook <experiments_2018-11_word2vec.ipynb>`_
+    - `Notebook <experiments_2018-11_word2vec.ipynb>`_ /
+      `Example <2019-03-08_rf_w2v_example.ipynb>`_
 
   * - 2018-12-06 to 2018-12-13
     - Looking for articles' PIDs from USP/UNESP/UNICAMP (SciELO Brazil)
@@ -116,7 +117,7 @@ Contents of this repository ordered by creation date:
     - `Notebook <experiments_2018-12_sao_paulo.ipynb>`_ /
       `XLSX <https://drive.google.com/file/d/1KwpXe-E-WET9CiPp8YZqRjor1JcJeuP6/view>`_
 
-  * - 2019-01-10 to 2019-02-14
+  * - 2019-01-10 to 2019-02-21
     - Looking for articles from EMBRAPA
       and public state universities in SP (USP/UNESP/Unicamp)
       in the entire SciELO Network
