@@ -106,9 +106,14 @@ Contents of this repository ordered by creation date:
     - `Notebook <experiments_2018-08_words_lsa.ipynb>`_
 
   * - 2018-11-22 to 2019-03-08
-    - Experiments with word2vec (still unfinished)
+    - Experiments with word2vec
+      to find the country code from a single string
+      having the merged information of an affiliation-contributor pair
     - `Notebook <experiments_2018-11_word2vec.ipynb>`_ /
-      `Example <2019-03-08_rf_w2v_example.ipynb>`_
+      `Example <2019-03-08_rf_w2v_example.ipynb>`_ /
+      `Dump Dictionary <https://drive.google.com/open?id=1z4vAm2m3ANp48b2XnRtSlNDM2Gp4vrMX>`_ /
+      `Dump W2V 200 <https://drive.google.com/open?id=1EEI-sY-nprjzQ1yyS11F_fhocAKzRpIt>`_ /
+      `Dump W2V 1000 <https://drive.google.com/open?id=1_HeYOyjPlM6s1taoXSpG48XjIWd6A921>`_
 
   * - 2018-12-06 to 2018-12-13
     - Looking for articles' PIDs from USP/UNESP/UNICAMP (SciELO Brazil)
