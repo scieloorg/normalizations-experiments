@@ -91,9 +91,9 @@ def process_file(xml_file):
     common_lists = starmap(partial(nestget_list, art), COMMON_FIELDS)
     common_values = reduce(concat, common_lists)
     for row_dict in aff_contrib_full(art):
-        row = [row_dict[field] for field in ROWS_FIELDS]
+        row = [row_dict.get(field, []) for field in ROWS_FIELDS]
         msg = " ".join(reduce(concat, row) + common_values)
-        expected = "|".join(set(row_dict["addr_country_code"]))
+        expected = "|".join(sorted(set(row_dict.get("addr_country_code", []))))
         yield msg, expected
 
 
