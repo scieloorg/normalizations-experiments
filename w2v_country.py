@@ -15,6 +15,7 @@ import click
 from gensim.matutils import corpus2csc
 import joblib
 import pandas as pd
+import sklearn
 from unidecode import unidecode
 
 from clea.core import Article
@@ -22,8 +23,6 @@ from clea.join import aff_contrib_full
 
 
 TEXT_ONLY_REGEX = re.compile("[^a-zA-Z ]")
-DEFAULT_DICTIONARY_DUMP = "dictionary_w2v_both.dump"
-DEFAULT_MODEL_DUMP = "rf_w2v_200.dump"
 COMMON_FIELDS = [
     ("article_meta", 0, "article_title"),
     ("journal_meta", 0, "journal_title"),
@@ -66,8 +65,7 @@ def pre_normalize(name):
 
 class Classifier:
 
-    def __init__(self, dictionary_file=DEFAULT_DICTIONARY_DUMP,
-                       model_file=DEFAULT_MODEL_DUMP):
+    def __init__(self, dictionary_file, model_file):
         self.dictionary = joblib.load(dictionary_file)
         self.rf_model = joblib.load(model_file)
         self.u = self.rf_model.u
@@ -105,9 +103,20 @@ def process_file(classifier, xml_file, csv_writer):
               default="-",
               help="Headerless CSV output, "
                    "defaults to the standard output stream.")
+@click.option("dictionary_file", "-d", "--dict", type=click.File("rb"),
+              required=True,
+              help="The gensim.corpora.Dictionary object "
+                   "with machine learning model vocabulary.")
+@click.option("model_file", "-m", "--model", type=click.File("rb"),
+              required=True,
+              help="Machine learning model object "
+                  f"trained in scikit-learn v{sklearn.__version__} "
+                   "with the dimensionality reduction matrix "
+                   'stored in the "u" attribute.')
 @click.argument("xml_files", type=click.File("r"), nargs=-1, required=True)
-def main(xml_files, output_file):
-    classifier = Classifier()
+def main(xml_files, output_file, dictionary_file, model_file):
+    classifier = Classifier(dictionary_file=dictionary_file,
+                            model_file=model_file)
     csv_writer = csv.writer(output_file)
     for xml_file in xml_files:
         process_file(classifier, xml_file, csv_writer)
