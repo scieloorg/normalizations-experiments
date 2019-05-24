@@ -86,16 +86,15 @@ class Classifier:
         return result_series[result_series > 0].sort_values(ascending=False)
 
 
-def process_file(classifier, xml_file, csv_writer):
+def process_file(xml_file):
     art = Article(xml_file)
     common_lists = starmap(partial(nestget_list, art), COMMON_FIELDS)
     common_values = reduce(concat, common_lists)
-    for idx, row_dict in enumerate(aff_contrib_full(art)):
+    for row_dict in aff_contrib_full(art):
         row = [row_dict[field] for field in ROWS_FIELDS]
         msg = " ".join(reduce(concat, row) + common_values)
-        result = classifier.predict(msg)
         expected = "|".join(set(row_dict["addr_country_code"]))
-        csv_writer.writerow([result, expected, idx, xml_file.name])
+        yield msg, expected
 
 
 @click.command(help=__doc__)
@@ -119,7 +118,9 @@ def main(xml_files, output_file, dictionary_file, model_file):
                             model_file=model_file)
     csv_writer = csv.writer(output_file)
     for xml_file in xml_files:
-        process_file(classifier, xml_file, csv_writer)
+        for idx, (msg, expected) in enumerate(process_file(xml_file)):
+            result = classifier.predict(msg)
+            csv_writer.writerow([result, expected, idx, xml_file.name])
 
 
 if __name__ == "__main__":
