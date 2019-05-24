@@ -119,8 +119,9 @@ def main(xml_files, output_file, dictionary_file, model_file):
     csv_writer = csv.writer(output_file)
     for xml_file in xml_files:
         for idx, (msg, expected) in enumerate(process_file(xml_file)):
-            result = classifier.predict(msg)
-            csv_writer.writerow([result, expected, idx, xml_file.name])
+            proba = classifier.predict_proba(msg)
+            csv_writer.writerow([proba.index[0], expected, proba.iloc[0],
+                                 idx, xml_file.name])
 
 
 if __name__ == "__main__":
