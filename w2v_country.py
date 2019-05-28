@@ -87,7 +87,7 @@ class Classifier:
 
 
 def process_file(xml_file):
-    art = Article(xml_file)
+    art = Article(xml_file, raise_on_invalid=False)
     common_lists = starmap(partial(nestget_list, art), COMMON_FIELDS)
     common_values = reduce(concat, common_lists)
     for row_dict in aff_contrib_full(art):
@@ -118,6 +118,7 @@ def main(xml_files, output_file, dictionary_file, model_file):
                             model_file=model_file)
     csv_writer = csv.writer(output_file)
     for xml_file in xml_files:
+        click.echo(xml_file.name, err=True)
         for idx, (msg, expected) in enumerate(process_file(xml_file)):
             proba = classifier.predict_proba(msg)
             csv_writer.writerow([proba.index[0], expected, proba.iloc[0],
