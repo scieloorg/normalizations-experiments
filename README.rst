@@ -51,6 +51,7 @@ Contents of this repository ordered by creation date:
   * - 2018-06-04
     - CSV generation with `Clea <https://github.com/scieloorg/clea>`_
     - `Notebook <experiments_2018-06-04.ipynb>`_ /
+      `File list <https://drive.google.com/open?id=1bYP5DRzSS4BmDeEUA3mQrhH117LfPk5q>`_ /
       `CSV <https://drive.google.com/file/d/1XmBh6YlfPkB5WfYSolAMP1EA5e02jHQO/view?usp=sharing>`_
 
   * - 2018-06-07
@@ -130,3 +131,11 @@ Contents of this repository ordered by creation date:
       as well as the graph of authors and institutions
     - `Notebook <experiments_2019-02_usp_unicamp_unesp_embrapa.ipynb>`_ /
       `XLSX <https://drive.google.com/file/d/1d3WIFoftk15uzGrPkSDzqaPqnSNeOfqq/view>`_
+
+  * - 2019-05-13 to 2019-06-05
+    - Analysis of the trained "W2V 200" model using other XML files
+    - `Notebook <experiments_2019-05_w2v_evaluation.ipynb>`_ /
+      `List of training files <https://drive.google.com/open?id=1bYP5DRzSS4BmDeEUA3mQrhH117LfPk5q>`_ /
+      `Script requirements <requirements.w2v_country.txt>`_ /
+      `Script <w2v_country.py>`_ /
+      `W2V 200 results CSV <https://drive.google.com/open?id=1JTjUfYfYnspH1DL_mNVcGvIYJqIp-fta>`_
