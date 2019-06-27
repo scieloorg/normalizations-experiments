@@ -24,7 +24,8 @@ Contents of this repository ordered by creation date:
   * - 2018-04-19
     - Article XML parsing with ``ElementTree``/``libxml2``/``lxml``,
       using XPath/XSLT
-    - `Notebook <experiments_2018-04-19.ipynb>`_
+    - `Notebook <experiments_2018-04-19.ipynb>`_ /
+      `XML pack <https://drive.google.com/open?id=1ek_18qnBaEEvOkUdateMHhA9FExOT4An>`_
 
   * - 2018-04-26
     - Creating a table with data from ``<aff>``-``<contrib>`` pairs
@@ -35,7 +36,9 @@ Contents of this repository ordered by creation date:
   * - 2018-05-03
     - Loading/cleaning/analyzing a table of manually normalized data,
       including a DBSCAN clustering model for the institution name
-    - `Notebook <experiments_2018-05-03.ipynb>`_
+    - `Notebook <experiments_2018-05-03.ipynb>`_ /
+      `Raw manual CSV <https://drive.google.com/open?id=1Y_5jtWKOBhBUXQIQBZSb4qz13nyOwdWO>`_ /
+      `Manual CSV <https://drive.google.com/open?id=1-RImt4SMK1a2t_t4GfMWT5ciDNIDQvoQ>`_
 
   * - 2018-05-10
     - Looking for alternatives to the CSS/XPath/XSLT based XML parsing:
@@ -98,7 +101,8 @@ Contents of this repository ordered by creation date:
 
   * - 2018-08-09
     - Summarization of the affiliations report from SciELO Analytics
-    - `Notebook <2018-08-09_affiliations_report_summary.ipynb>`_
+    - `Notebook <2018-08-09_affiliations_report_summary.ipynb>`_ /
+      `Summary <https://drive.google.com/open?id=1TPlf5FmZeZuUVZI4QiEJFyyPS7f32v7g>`_
 
   * - 2018-08-23 to 2018-11-14
     - Latent Semantic Analysis (LSA) on the CSV data
@@ -139,3 +143,34 @@ Contents of this repository ordered by creation date:
       `Script requirements <requirements.w2v_country.txt>`_ /
       `Script <w2v_country.py>`_ /
       `W2V 200 results CSV <https://drive.google.com/open?id=1JTjUfYfYnspH1DL_mNVcGvIYJqIp-fta>`_
+
+List of files that aren't stored in this repository:
+
+* Dataset of manually normalized data:
+  `aff_norm_update.csv (raw) <https://drive.google.com/open?id=1Y_5jtWKOBhBUXQIQBZSb4qz13nyOwdWO>`_,
+  `aff_n15.csv (fixed) <https://drive.google.com/open?id=1-RImt4SMK1a2t_t4GfMWT5ciDNIDQvoQ>`_
+
+* `Clea <https://github.com/scieloorg/clea>`_'s 2018-06-04 CSV
+  and the XML pack from which it was created:
+  `selecao_xml_br.tgz <https://drive.google.com/open?id=1ek_18qnBaEEvOkUdateMHhA9FExOT4An>`_,
+  `inner_join_2018-06-04.csv <https://drive.google.com/open?id=1XmBh6YlfPkB5WfYSolAMP1EA5e02jHQO>`_,
+  `inner_join_2018-06-04_filenames.txt <https://drive.google.com/open?id=1bYP5DRzSS4BmDeEUA3mQrhH117LfPk5q>`_
+
+* Random forest models based on Word2Vec:
+  `dictionary_w2v_both.dump <https://drive.google.com/open?id=1z4vAm2m3ANp48b2XnRtSlNDM2Gp4vrMX>`_,
+  `rf_w2v_200.dump <https://drive.google.com/open?id=1EEI-sY-nprjzQ1yyS11F_fhocAKzRpIt>`_,
+  `rf_w2v_1000.dump <https://drive.google.com/open?id=1_HeYOyjPlM6s1taoXSpG48XjIWd6A921>`_
+
+* Results of applying the ``rf_w2v_200.dump`` model:
+  `2019-05_w2v_country.csv <https://drive.google.com/open?id=1JTjUfYfYnspH1DL_mNVcGvIYJqIp-fta>`_
+
+* Country summary CSV based on the reports
+  from `SciELO Analytics <https://analytics.scielo.org/>`_
+  (2018-06-10):
+  `documents_affiliations_country_summary.csv <https://drive.google.com/open?id=1TPlf5FmZeZuUVZI4QiEJFyyPS7f32v7g>`_
+
+* XLSX with articles' PIDs based on the reports
+  from `SciELO Analytics <https://analytics.scielo.org/>`_
+  (2018-12-10):
+  `pids_network_2018-12-10_usp_unesp_unicamp_embrapa.xlsx <https://drive.google.com/file/d/1d3WIFoftk15uzGrPkSDzqaPqnSNeOfqq/view>`_,
+  `pids_2018-12-10_usp_unesp_unicamp.xlsx <https://drive.google.com/file/d/1KwpXe-E-WET9CiPp8YZqRjor1JcJeuP6/view>`_
