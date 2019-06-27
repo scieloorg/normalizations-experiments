@@ -1,0 +1,55 @@
+# Unzipped from https://analytics.scielo.org/w/reports
+# With the "_scl" suffix: SciELO Brazil
+# Without it: the whole SciELO Network
+# The spare file should had been in the 2018-06-10 directory
+/201[89]-??-??/*.csv
+/201[89]-??-??_scl/*.csv
+/documents_affiliations.csv
+
+# The manually normalized CSV, used in some experiments
+# (2018-05-03, 2018-07-05 and 2018-07-12)
+/aff_n15.csv
+/aff_norm_update.csv
+
+# Results of the experiments performed on 2018-04-19
+/0104-6632-bjce-33-01-0001.json
+
+# Results of the experiments performed on 2018-04-26
+/affs_table.csv
+
+# Results of the experiments performed on 2018-05-03
+/aff_consistent.csv
+/aff_head.csv
+/aff_inconsistent.csv
+
+# Results of the experiments performed on 2018-07-23
+/crossref-by-doi/
+/crossref-pid-from-doi.csv
+
+# Results of the experiments performed on 2018-08-09
+/documents_affiliations_country_summary.csv
+
+# Results of the experiments_2019-05_w2v_evaluation.ipynb
+/2019-05_w2v_country.csv
+
+# File list and results of the experiments performed on 2018-06-04
+/inner_join_2018-06-04_filenames.txt
+/inner_join_2018-06-04.csv
+
+# From https://github.com/felipeparpinelli/word2vec-pt-br
+# and https://drive.google.com/file/d/0B_eXEo_eUPCDWnJ0YWtUdW1kVFk
+/wiki.pt.trigram.vector
+
+# Joblib dumps of objects created during the experiments
+# and XLSX results
+/*.dump
+/*.xlsx
+
+# Raw XML files
+/selecao_xml_br/
+*.xml
+
+# Common Python/Jupyter stuff
+.ipynb_checkpoints/
+__pycache__/
+venv/
