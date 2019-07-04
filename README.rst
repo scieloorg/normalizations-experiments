@@ -174,3 +174,10 @@ List of files that aren't stored in this repository:
   (2018-12-10):
   `pids_network_2018-12-10_usp_unesp_unicamp_embrapa.xlsx <https://drive.google.com/file/d/1d3WIFoftk15uzGrPkSDzqaPqnSNeOfqq/view>`_,
   `pids_2018-12-10_usp_unesp_unicamp.xlsx <https://drive.google.com/file/d/1KwpXe-E-WET9CiPp8YZqRjor1JcJeuP6/view>`_
+
+Packages with old `reports <https://analytics.scielo.org/w/reports>`_
+from SciELO Analytics on which some experiment was based:
+
+* `2018-06-10 (All) <https://drive.google.com/open?id=1-FMfu8e83uAjkAQUK8xhtm2L5hn10m51>`_
+* `2018-11-10 (Brazil) <https://drive.google.com/open?id=1WItJXlNzrYkm9rUicsvenH5QgmU4n2MR>`_
+* `2018-12-10 (Brazil and Network) <https://drive.google.com/open?id=1yxvrvFAy-L0ZV9Mm_NKXTV7ztA_nLAEh>`_
