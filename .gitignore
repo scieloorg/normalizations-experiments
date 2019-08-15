@@ -29,6 +29,11 @@
 # Results of the experiments performed on 2018-08-09
 /documents_affiliations_country_summary.csv
 
+# PID list and results of the experiments performed on 2019-08-15
+/2019-08-15_articlemeta/
+/2019-08-15_ratchet/
+/scl_2012_2019_pids.txt
+
 # Results of the experiments_2019-05_w2v_evaluation.ipynb
 /2019-05_w2v_country.csv
 

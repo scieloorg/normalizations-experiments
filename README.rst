@@ -144,6 +144,10 @@ Contents of this repository ordered by creation date:
       `Script <w2v_country.py>`_ /
       `W2V 200 results CSV <https://drive.google.com/open?id=1JTjUfYfYnspH1DL_mNVcGvIYJqIp-fta>`_
 
+  * - 2019-08-15
+    - Number of days until the first access burst
+    - `Notebook <2019-08-15_first_access_burst.ipynb>`_
+
 List of files that aren't stored in this repository:
 
 * Dataset of manually normalized data:
