@@ -148,6 +148,11 @@ Contents of this repository ordered by creation date:
     - Number of days until the first access burst
     - `Notebook <2019-08-15_first_access_burst.ipynb>`_
 
+  * - 2019-08-21
+    - Analyzing accesses of a single journal
+      with Ratchet and ArticleMeta
+    - `Notebook <2019-08-21_ratchet_example.ipynb>`_
+
 List of files that aren't stored in this repository:
 
 * Dataset of manually normalized data:
