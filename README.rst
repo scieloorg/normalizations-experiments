@@ -153,6 +153,11 @@ Contents of this repository ordered by creation date:
       with Ratchet and ArticleMeta
     - `Notebook <2019-08-21_ratchet_example.ipynb>`_
 
+  * - 2019-11-14 onwards
+    - Applying FastText directly on ISIS ISO data
+    - `Notebook <2019-08-21_ratchet_example.ipynb>`_ /
+      `ISO files <https://drive.google.com/open?id=101-oKPeKF2LM0L2uO_dYL9fp0eKOCE_->`_
+
 List of files that aren't stored in this repository:
 
 * Dataset of manually normalized data:
@@ -164,6 +169,9 @@ List of files that aren't stored in this repository:
   `selecao_xml_br.tgz <https://drive.google.com/open?id=1ek_18qnBaEEvOkUdateMHhA9FExOT4An>`_,
   `inner_join_2018-06-04.csv <https://drive.google.com/open?id=1XmBh6YlfPkB5WfYSolAMP1EA5e02jHQO>`_,
   `inner_join_2018-06-04_filenames.txt <https://drive.google.com/open?id=1bYP5DRzSS4BmDeEUA3mQrhH117LfPk5q>`_
+
+* ISIS ISO dump:
+  `2019-11-13_iso200.zip <https://drive.google.com/open?id=101-oKPeKF2LM0L2uO_dYL9fp0eKOCE_->`_
 
 * Random forest models based on Word2Vec:
   `dictionary_w2v_both.dump <https://drive.google.com/open?id=1z4vAm2m3ANp48b2XnRtSlNDM2Gp4vrMX>`_,
